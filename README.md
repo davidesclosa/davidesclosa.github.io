@@ -64,7 +64,7 @@ is in itself a remarkable fact: infinitely many monomials have to balance each o
 I analyze the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and
 obtain necessary conditions for the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which is left open as a conjecture.
 
-## Lagarias–Wang Conjecture
+## Lagarias–Wang Finiteness Conjecture
 
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
