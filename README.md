@@ -1,15 +1,32 @@
----
-toc: false
----
+<style>
+.menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 10px;
+}
+
+.menu li:first-child {
+    margin-left: 0;
+}
+</style>
+
+<ul class="menu">
+    <li><a href="#home" style="text-decoration: none; color: black;">Home</a></li>
+    <li><a href="#research" style="text-decoration: none; color: black;">Publications</a></li>
+    <li><a href="#cv" style="text-decoration: none; color: black;">CV</a></li>
+    <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
+</ul>
 
 
-
-[Home](#home) | [Research](#research) | [Publications](#publications) | [CV](#cv) | [Contacts](#contacts)
-
-
-
-# H1
-
+# About Me {#home}
 I like to do mathematics.
 
 ## Research {#research}
