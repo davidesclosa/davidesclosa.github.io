@@ -6,16 +6,22 @@
 
 
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
+# Davide Sclosa
+
+## About Me
+
+## Research
+### Graphs and Dynamics $$\int_0^\pi f \mathrm d \mu$$
+### Power Series and Generating Functions $$\exp(1-\exp(x))$$
+
+
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
 
 
 
-$$\int_0^\pi f \mathrm d \mu$$
+
 
 
 
