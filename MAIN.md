@@ -38,9 +38,6 @@
 
 # Davide Sclosa {#home}
 I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
-<div style="text-align: center;">
-    <img src="me.png" alt="Profile Picture" class="profile-image">
-</div>
 
 # Research Interests {#research}
 
