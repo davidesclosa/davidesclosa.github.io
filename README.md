@@ -48,7 +48,7 @@ are related to Eulerian paths; in joint work with C. Bick I explore graphon and 
 ## Algebraic Groups Over Finite Fields
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
-Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
+Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 By varying the underlying finite field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
 On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a smooth algebraic variety.
 Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
