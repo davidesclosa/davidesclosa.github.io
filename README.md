@@ -5,7 +5,7 @@
 
 
 
-# Davide Sclosa
+# H1
 
 I like to do mathematics.
 
@@ -19,8 +19,7 @@ Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consecte
 Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 ## Contacts {#contacts}
-Davide Sclosa
-[Google Scholar]([https://www.example.com](https://scholar.google.com/citations?user=B392PEAAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
 
