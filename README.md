@@ -31,15 +31,13 @@
 # Davide Sclosa {#home}
 I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
 
-# Research Interests {#research}
+# Research {#research}
 
 ## Dynamical Systems, Graphs, and Graph Limits
-Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represents interactions between them. Contrary to 
-
-For each fixed graph~$G$, the goal is understanding the collective behavior of the system. 
-
-I am particularly in two aspects. interested in the relation between combinatorial properties of the underlying graph and long-term properties of the associated dynamics. I obtained results relating graph homology, graph coverings, and symmetries to dynamics.
-And graph limits. [Visit Example](https://www.example.com)
+Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represents interactions between them.
+I am particularly interested in the relation between combinatorial structure and emergent collective behavior. For example, I prove false a conjecture by explicitly contruct finite graphs containing [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); moreover, I show that [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of graph cycles with common edges.
+Rather than considering large but finite graphs to capture the network, one sometimes resorts to graph limits. [Here](https://link.springer.com/article/10.1007/s10884-023-10334-7)
+we explore symmetries of graphons and graphops and their consequence for the associated (infinite-dimensional) dynamics.
 
 
 ## Algebraic Groups Over Finite Fields
