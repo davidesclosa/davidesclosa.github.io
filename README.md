@@ -6,10 +6,9 @@
 
 ## About Me
 
-## Research {#publications}
+## Research {#research}
 ### Graphs and Dynamics $$\int_0^\pi f \mathrm d \mu$$
 ### Power Series and Generating Functions $$\exp(1-\exp(x))$$
-### script at the end
 
 
 ## Contact {#contacts}
