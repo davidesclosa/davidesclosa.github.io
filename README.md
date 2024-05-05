@@ -40,21 +40,16 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 ## Dynamical Systems on Finite Graphs and Graph Limits
 
-Dynamical systems on graphs naturally occur as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
-Fascinating connections exist between the underlying *combinatorial structure* and *emergent collective behavior*. Here are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of cycles with one edge in common; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
-are related to Eulerian paths. In joint work with C.Bick I explore graphon and graphop automorphism groups to generalize symmetries, which are fundamental tools to understand dynamical systems on finite graphs, to [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+Dynamical systems on graphs naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
+There are fascinating relations between *combinatorial structure* and *emergent collective behavior*. Here are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of cycles with one common edge; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
+are related to Eulerian paths; in joint work with C. Bick I explore graphon and graphop automorphisms to generalize symmetries, which are fundamental tools to understand dynamics on finite graphs, to [dynamics on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 
 ## Algebraic Groups Over Finite Fields
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
-By varying the underlying finite field we obtain a sequence of *discrete* finite groups
-
-$$
-	G(\mathbb F_p),\ G(\mathbb F_{p^2}),\ \ldots,\ G(\mathbb F_{p^n}), \ldots .
-$$
-
+By varying the underlying finite field we obtain a sequence of *discrete* finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
 On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a *smooth* algebraic variety.
 Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
