@@ -35,7 +35,9 @@
 }
 </style>
 
-<img src="me.png" alt="Profile Picture" class="profile-image">
+<div style="text-align: right;">
+    <img src="path/to/me.jpg" alt="Profile Picture" class="profile-image">
+</div>
 
 
 # Davide Sclosa {#home}
