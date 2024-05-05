@@ -34,7 +34,9 @@ I am a mathematician. I am broadly interested in connections between discrete an
 # Research Interests {#research}
 
 ## Dynamical Systems, Graphs, and Graph Limits
-Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represents interactions between these quantities. For each fixed graph~$G$, the goal is understanding the collective behavior of the system. 
+Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represents interactions between them. Contrary to 
+
+For each fixed graph~$G$, the goal is understanding the collective behavior of the system. 
 
 I am particularly in two aspects. interested in the relation between combinatorial properties of the underlying graph and long-term properties of the associated dynamics. I obtained results relating graph homology, graph coverings, and symmetries to dynamics.
 And graph limits. [Visit Example](https://www.example.com)
@@ -42,15 +44,16 @@ And graph limits. [Visit Example](https://www.example.com)
 
 ## Algebraic Groups Over Finite Fields
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
-Fix a linear algebraic group $$G$$ (for example, let $$G$$ be one of the classical groups $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$).
-Bu varying the underlying finite field we obain a sequence of (discrete) finite groups
+Fix a linear algebraic group $$G$$ (for example, one of the classical groups $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$).
+Varying the underlying finite field gives a sequence of *discrete* finite groups
 
 $$
 	G(\mathbb F_p),\ G(\mathbb F_{p^2}),\ \ldots,\ G(\mathbb F_{p^n}), \ldots
 $$
 
-while on an algebraic closure we obtain an infinite group $$G(\overline{\mathbb F_p})$$, which is a smooth algebraic variety and can be interpreted as the limit object.
-[Here](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) I prove a correspondence between subgroups in the sequence and coverings of the limit object.
+while on an algebraic closure the group $$G(\overline{\mathbb F_p})$$, which can be interpreted as the limit object, is a *smooth* algebraic variety.
+[Here](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) I prove a correspondence between subgroup indeces appearing for infinitely many $$n$$
+and coverings of the limit object.
 
 
 ## Power Series and Generating Functions
