@@ -32,15 +32,15 @@
 I am a mathematician broadly interested in connections between discrete and continuous structures.
 
 
-# My Research {#research}
+## My Research {#research}
 
-## Dynamical Systems, Graphs, and Graph Limits
+### Dynamical Systems, Graphs, and Graph Limits
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
 I find particularly fascinating the connections between the underlying *combinatorial structure* and *emergent collective behavior*. For example, I prove false a conjecture by explicitly contructing finite graphs with [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X) while providing an upper bound on the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) based on the number of graph cycles with one edge in common.
 Symmetries are a fundamental tool to analyze dynamics on finite graphs. However, rather than considering large but finite graphs, one sometimes resorts to graph limits.
 [Here](https://link.springer.com/article/10.1007/s10884-023-10334-7) I and C.Bick generalize the theory to dynamics on graph limits by studying graphons and graphops automorphism groups.
 
-## Algebraic Groups Over Finite Fields
+### Algebraic Groups Over Finite Fields
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
 By varying the underlying finite field we obtain a sequence of *discrete* finite groups
@@ -54,26 +54,26 @@ Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
 This problem was presented to me by P.Corvaja.
 
-## Bounded Power Series and Generating Functions
+### Bounded Power Series and Generating Functions
 
 The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a sigle power series convergent and bounded on the whole real line.
 For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. In a recent paper
 I analyze the set of complex power series [bounded on the real line](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) and, in particular,
 I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this king are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
 
-## Joint Spectral Radius
+### Joint Spectral Radius
 explain
 In joint work with Giovanni Panti
 
-## Dynamic Random Graphs
+### Dynamic Random Graphs
 Work in progress.
 
 
-# Complete List of Publications {#publications}
+## Complete List of Publications {#publications}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
-# Contacts {#contacts}
+## Contacts {#contacts}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
