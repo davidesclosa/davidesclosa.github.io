@@ -49,8 +49,8 @@ are related to Eulerian paths; in joint work with C. Bick I explore graphon and 
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
-By varying the underlying finite field we obtain a sequence of *discrete* finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
-On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a *smooth* algebraic variety.
+By varying the underlying finite field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
+On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a smooth algebraic variety.
 Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
 This problem was presented to me by P. Corvaja.
@@ -58,7 +58,7 @@ This problem was presented to me by P. Corvaja.
 
 ## Power Series Bounded on the Real Line and Generating Functions
 
-The existence of power series that are bounded on the whole real line (consider for example $\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$)
+The existence of power series that are bounded on the whole real line (consider for example $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$)
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
 (in contrast, bounded power series on the complex plane are constant).
 [Here](https://www.sciencedirect.com/science/article/pii/S0022247X24003706), I analyze the set of bounded power series on the real line and
