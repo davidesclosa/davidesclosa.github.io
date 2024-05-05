@@ -7,23 +7,18 @@
 I like to do mathematics.
 
 ## Research {#research}
-### Graphs and Dynamical Systems $$\int_0^\pi f \mathrm d \mu$$
-### Algebraic Groups Over Finite Fields
-### Power Series and Generating Functions $$e^{1-e^x}$$
+Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Contact {#contacts}
+### Algebraic Groups Over Finite Fields
+Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+### Power Series and Generating Functions
+Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+## Contacts {#contacts}
 Davide Sclosa
 [Google Scholar]([https://www.example.com](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
-
-
-
-You can reach me through the following methods:
-
-- Email: [example@example.com](mailto:example@example.com)
-- Google Scholar: 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourhandle)
 
 
 
