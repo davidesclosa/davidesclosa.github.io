@@ -50,7 +50,7 @@ $$
 $$
 
 while on an algebraic closure the group $$G(\overline{\mathbb F_p})$$, which can be interpreted as the limit object, is a *smooth* algebraic variety.
-[Here](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) I prove a correspondence between subgroup indeces appearing for infinitely many $$n$$
+I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between subgroup indeces appearing for infinitely many $$n$$
 and coverings of the limit object.
 
 
