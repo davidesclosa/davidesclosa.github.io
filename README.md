@@ -57,12 +57,6 @@ Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consecte
 
 
 
-h1 a {
-    text-decoration: none;
-    color: inherit;
-}
-
-
 
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
