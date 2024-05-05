@@ -71,7 +71,7 @@ I give necessary conditions for boundedness in terms of the coefficient sequence
 
 ## Joint Spectral Radius
 
-The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of the spectral radius.
+The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The join spectral radius is the supremum of the normalized spectral radii of all finite products.
 The *finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
 the maximum normalized spectral radius. This conjecture is false for real matrices and open for rational matrices.
