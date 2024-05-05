@@ -40,7 +40,7 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 ## Dynamical Systems, Finite Graphs, and Graph Limits
 
-<details>
+<details open>
 <summary>Click here to expand</summary>
 
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
@@ -52,7 +52,7 @@ to [dynamical systems on graph limits](https://link.springer.com/article/10.1007
 
 ## Algebraic Groups Over Finite Fields
 
-<details>
+<details open>
 <summary>Click here to expand</summary>
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
