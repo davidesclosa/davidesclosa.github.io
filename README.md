@@ -1,8 +1,8 @@
 <style>
 .menu {
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 20px;
+    right: 20px;
     list-style-type: none;
     margin: 0;
     padding: 0;
