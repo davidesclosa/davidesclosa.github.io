@@ -56,7 +56,7 @@ I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2
 This problem was presented to me by P. Corvaja.
 
 
-## Power Series Bounded on the Real Line and Generating Functions
+## Bounded Power Series on the Real Line and Generating Functions
 
 The existence of power series bounded on the whole real line (like $$\sin(x)$$ and $$e^{-x^2/2}$$)
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
