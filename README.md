@@ -39,28 +39,16 @@ And graph limits. [Visit Example](https://www.example.com)
 
 
 ## Algebraic Groups Over Finite Fields
-Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups, a monumental achievement in group theory.
+Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 By fixing a linear algebraic group $$G$$ (for example, let $$G$$ be one of the classical groups $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$)
-while varying the underlying field, we obain a sequence of finite groups:
+while varying the underlying field, we obain a sequence of finite groups
 
 $$
-	G(\mathbb F_p), G(\mathbb F_{p^2}), \ldots, G(\mathbb F_{p^n}), \ldots
+	G(\mathbb F_p),\ G(\mathbb F_{p^2}),\ \ldots,\ G(\mathbb F_{p^n}), \ldots .
 $$
+The group on an algebraic closure $$G(\overline{\mathbb F_p})$$ is a smooth algebraic variety, which can be interpreted as "limit" of the sequence.
+[Here](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) I prove a correspondence between subgroup indexes appearing infinitely often in the sequence and covering of the limit object.
 
-
-
-
-Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-In~\cite{sclosa2023algebraic} I fix an algebraic group~$G$, a prime~$p$,
-and consider the sequence of finite groups
-\[
-	G(\mathbb F_p), G(\mathbb F_{p^2}), \ldots, G(\mathbb F_{p^n}), \ldots
-\]
-obtained by varying the underlying finite field.
-I prove a correspondence between subgroup indeces
-appearing infinitely many times in the sequence~$(G(\F_{p^n}))_{n\geq 1}$
-and coverings of the limit structure, which is a smooth algebraic variety.
 
 ## Power Series and Generating Functions
 Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
