@@ -26,16 +26,9 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
-<style>
-.centered-image {
-    display: block;
-    margin: 0 auto;
-    max-width: 20px;
-    height: auto;
-}
-</style>
-
-<img src="me.png" alt="Profile Picture" class="centered-image">
+<div style="text-align: center;">
+    <img src="me.png" alt="Profile Picture" style="max-width: 100px;">
+</div>
 
 
 # Davide Sclosa {#home}
