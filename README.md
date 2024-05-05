@@ -76,7 +76,7 @@ The join spectral radius is the supremum of the normalized spectral radii of all
 The *finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
 the maximum normalized spectral radius. This conjecture is false for real matrices and open for rational matrices.
 Together with G.Panti, I prove that [the conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
-We apply the result to the study of geodesics on hyperbolic surfaces.
+We apply the result to the study of hyperbolic billiards.
 
 
 ## Dynamic Random Graphs
