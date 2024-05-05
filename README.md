@@ -80,7 +80,7 @@ We apply the result to the study of geodesics on hyperbolic surfaces.
 
 
 ## Dynamic Random Graphs
-Work in progress.
+To be announced.
 
 
 # Complete List of Publications {#publications}
