@@ -27,6 +27,10 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
+a.anchor {
+    display: none;
+}
+
 
 # Davide Sclosa {#home}
 I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
@@ -50,10 +54,6 @@ Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consecte
 
 # Contacts {#contacts}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
-
-
-
-
 
 
 
