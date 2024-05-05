@@ -62,7 +62,7 @@ The existence of power series bounded on the whole real line (like $$\sin(x)$$ a
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
 (in contrast, power series bounded on the complex plane are constant).
 I analyze the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and
-obtain necessary conditions for the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
+obtain necessary conditions for the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which is left as a conjecture.
 
 ## Joint Spectral Radius
 
