@@ -29,9 +29,10 @@
 
 
 # Davide Sclosa {#home}
-I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
+I do mathematics.
 
 # Research Interests {#research}
+I am broadly interested in connections between discrete and continuous structures.
 
 ## Dynamical Systems, Graphs, and Graph Limits
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, each vertex represents some dynamical quantity, each edge represents an interaction between two of these quantities, and the goal is understanding the collective behavior of the system. I am particularly in two aspects. interested in the relation between combinatorial properties of the underlying graph and long-term properties of the associated dynamics. I obtained results relating graph homology, graph coverings, and symmetries to dynamics.
