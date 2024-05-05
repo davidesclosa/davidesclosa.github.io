@@ -26,15 +26,7 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
-<style>
-.centered-image {
-    display: block;
-    margin: 0 auto;
-}
-</style>
-
-<!-- Your picture goes here -->
-<img src="path/to/your/picture.jpg" alt="Your Name" class="centered-image">
+![Profile Picture](me.jpg)
 
 # Davide Sclosa {#home}
 graphs $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
