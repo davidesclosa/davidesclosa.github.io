@@ -13,12 +13,17 @@ I like to do mathematics.
 
 ## Contact {#contacts}
 Davide Sclosa
-[Google Scholar]([https://www.example.com](https://scholar.google.com/citations?user=B392PEAAAAAJ&hl=en))
+[Google Scholar]([https://www.example.com](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
 
 
+You can reach me through the following methods:
 
+- Email: [example@example.com](mailto:example@example.com)
+- Google Scholar: 
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- Twitter: [Your Twitter Profile](https://twitter.com/yourhandle)
 
 
 
