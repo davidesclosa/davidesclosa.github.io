@@ -27,7 +27,7 @@
 </ul>
 
 
-# About Me {#home}
+# Davide Sclosa {#home}
 I like to do mathematics.
 
 ## Research {#research}
