@@ -39,24 +39,25 @@
 
 
 # Davide Sclosa {#home}
-graphs $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
 
 ## Research {#research}
 
-### Graphs and Dynamical Systems 
-graphs $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Dynamical Systems on Graphs
+Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, each vertex represents some dynamical quantity, each edge represents an interaction between two of these quantities, and the goal is understanding the collective behavior of the system. I am particularly interested in the relation between combinatorial properties of the underlying graph and long-term properties of the associated dynamics. I obtained results relating graph homology, graph coverings, and symmetries to dynamics.
 
-### Power Series and Generating Functions
-Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+### Graphs Limits and Symmetries
+Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, each vertex represents some dynamical quantity, each edge represents an interaction between two of these quantities, and the goal is understanding the collective behavior of the system. I am particularly interested in the relation between combinatorial properties of the underlying graph and long-term properties of the associated dynamics. I obtained results relating graph homology, graph coverings, and symmetries to dynamics.
 
 ### Algebraic Groups Over Finite Fields
-Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Power Series and Generating Functions
 Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Graphs and Dynamical Systems  $$e^{1-e^x}$$ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea $$\int_0^\pi f \mathrm d \mu$$ commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
+### Dynamic Random Graphs
+Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, each vertex represents some dynamical quantity, each edge represents an interaction between two of these quantities, and the goal is understanding the collective behavior of the system. I am particularly interested in the relation between combinatorial properties of the underlying graph and long-term properties of the associated dynamics. I obtained results relating graph homology, graph coverings, and symmetries to dynamics.
 
 
 ## Contacts {#contacts}
