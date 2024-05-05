@@ -56,13 +56,14 @@ This problem was presented to me by P.Corvaja.
 ## Bounded Power Series and Generating Functions
 
 The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a sigle power series convergent and bounded on the whole real line.
-For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. [Here](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) I analyze the set of complex power series bounded on the real line and, in particular,
+For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. In a recent paper
+I analyze the set of complex power series [bounded on the real line](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) and, in particular,
 I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this king are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. To this regard, I propose two conjectures.
 
-## Dynamic Random Graphs
+## Joint Spectral Radius
 Work in progress.
 
-## Joint Spectral Radius
+## Dynamic Random Graphs
 Work in progress.
 
 # List of Publications {#publications}
