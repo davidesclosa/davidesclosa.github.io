@@ -8,9 +8,15 @@
     padding: 0;
 }
 
-.content {
-    margin-top: 200px; /* Adjust margin top to match menu height */
+.menu li {
+    display: inline;
+    margin-left: 10px;
 }
+
+.menu li:first-child {
+    margin-left: 0;
+}
+
 </style>
 
 <ul class="menu">
