@@ -52,7 +52,7 @@ Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}
 By varying the underlying finite field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
 On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a smooth algebraic variety.
 Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
-I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
+I prove between [popular indeces and coverings](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) of the limit object.
 This problem was presented to me by P. Corvaja.
 
 
