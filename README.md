@@ -31,7 +31,7 @@
 .profile-image {
     display: block;
     margin: 0 auto 10px; /* Center the image horizontally and add margin below */
-    max-width: 50px; /* Adjust the maximum width of the image */
+    max-width: 10px; /* Adjust the maximum width of the image */
     height: auto;
 }
 </style>
