@@ -19,7 +19,7 @@
 
 </style>
 
-</style>
+<style>
 p {
     text-align: justify;
 }
