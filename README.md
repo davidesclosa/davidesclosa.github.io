@@ -1,7 +1,4 @@
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
+
 
 # h1 Heading 8-)
 ## h2 Heading
@@ -46,4 +43,29 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
+
+
+
 
