@@ -41,14 +41,14 @@ Symmetries are a fundamental tool to analyze dynamics on finite graphs. However,
 
 ## Algebraic Groups Over Finite Fields
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
-Fix a linear algebraic group $$G$$ (for example, one of the classical groups $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$).
-Varying the underlying finite field gives a sequence of *discrete* finite groups
+Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
+By varying the underlying finite field we obtain a sequence of *discrete* finite groups
 
 $$
-	G(\mathbb F_p),\ G(\mathbb F_{p^2}),\ \ldots,\ G(\mathbb F_{p^n}), \ldots
+	G(\mathbb F_p),\ G(\mathbb F_{p^2}),\ \ldots,\ G(\mathbb F_{p^n}), \ldots .
 $$
 
-while on an algebraic closure the group $$G(\overline{\mathbb F_p})$$, which can be interpreted as the limit object, is a *smooth* algebraic variety.
+On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$, living on an algebraic closure, is a *smooth* algebraic variety.
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between subgroup indeces appearing for infinitely many $$n$$
 and coverings of the limit object. This problem was presented to me by P.Corvaja.
 
