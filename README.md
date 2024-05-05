@@ -26,22 +26,21 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
+
 <style>
 .profile-image {
-    float: right;
-    margin: 0 0 10px 10px; /* Adjust margins as needed */
-    max-width: 10px; /* Adjust the maximum width of the image */
+    display: block;
+    margin: 0 auto 10px; /* Center the image horizontally and add margin below */
+    max-width: 50px; /* Adjust the maximum width of the image */
     height: auto;
 }
 </style>
 
-<div style="text-align: right;">
-    <img src="path/to/me.jpg" alt="Profile Picture" class="profile-image">
-</div>
-
-
 # Davide Sclosa {#home}
 I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
+<div style="text-align: center;">
+    <img src="me.png" alt="Profile Picture" class="profile-image">
+</div>
 
 # Research {#research}
 
