@@ -58,10 +58,11 @@ This problem was presented to me by P. Corvaja.
 
 ## Power Series Bounded on the Real Line and Generating Functions
 
-The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a single power series convergent on the whole real line.
-For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. In a recent paper
-I analyze the set of complex power series [bounded on the real line](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) and, in particular,
-I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
+The existence of power series that are bounded on the whole real line (consider for example $\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$)
+is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
+(in contrast, bounded power series on the complex plane are constant).
+[Here](https://www.sciencedirect.com/science/article/pii/S0022247X24003706), I analyze the set of bounded power series on the real line and
+investigate necessary conditions in terms of the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
 
 ## Joint Spectral Radius
 
