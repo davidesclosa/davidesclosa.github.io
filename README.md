@@ -28,7 +28,7 @@ p {
     <li><a href="#research" style="text-decoration: none; color: black;">Research</a></li>
     <li><a href="#publications" style="text-decoration: none; color: black;">Publications</a></li>
     <li><a href="#cv" style="text-decoration: none; color: black;">CV</a></li>
-    <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
+    <li><a href="mailto:your-email@example.com" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
 
