@@ -12,13 +12,9 @@
 ## Research
 ### Graphs and Dynamics $$\int_0^\pi f \mathrm d \mu$$
 ### Power Series and Generating Functions $$\exp(1-\exp(x))$$
+### Another one
 
-
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
+______________
 
 
 
