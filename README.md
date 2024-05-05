@@ -1,4 +1,4 @@
-[Home](#home) | [Research] (#research) | [Publications](#publications) | [CV](#cv) | [Contacts](#contacts)
+[Home](#home) | [Research](#research) | [Publications](#publications) | [CV](#cv) | [Contacts](#contacts)
 
 
 
