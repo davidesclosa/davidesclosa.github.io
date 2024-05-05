@@ -29,7 +29,7 @@
 
 
 # Davide Sclosa {#home}
-I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
+I am a mathematician broadly interested in connections between discrete and continuous structures.
 
 
 # My Research {#research}
@@ -68,7 +68,10 @@ In joint work with Giovanni Panti
 ## Dynamic Random Graphs
 Work in progress.
 
-# List of Publications {#publications}
+
+# Complete List of Publications {#publications}
+[Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
+
 
 # Contacts {#contacts}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
