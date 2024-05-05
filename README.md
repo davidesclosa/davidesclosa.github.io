@@ -8,62 +8,8 @@
 ###### h6 Heading
 
 
-## Horizontal Rules
 
-___
-
----
-
-***
-
-Example of latex $$1+1$$
-moreover $$\int f \mathrm d \mu$$
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>](url)
+$\int_0^\pi f \mathrm d \mu$
 
 
 
