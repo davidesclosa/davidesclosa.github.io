@@ -40,23 +40,13 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 ## Dynamical Systems, Finite Graphs, and Graph Limits
 
-<details>
-	
-<summary><strong>Click to expand</strong></summary>
-
-#### Markdown *in* `summary`
-$$\int \int$$
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
 I am particularly fascinated by the connections between the underlying *combinatorial structure* and *emergent collective behavior*. These are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of graph cycles with one edge in common; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
 are related to Eulerian paths. In joint work with C.Bick, I explore graphon and graphop automorphism groups to generalize symmetries, a fundamental tool to understand dynamical systems on finite graphs,
 to [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
-</details>
 
 ## Algebraic Groups Over Finite Fields
-
-<details>
-<summary>Click here to expand</summary>
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
@@ -71,7 +61,6 @@ Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
 This problem was presented to me by P.Corvaja.
 
-</details>
 
 ## Bounded Power Series and Generating Functions
 
