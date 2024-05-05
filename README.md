@@ -20,6 +20,7 @@ ___
 ***
 
 Example of latex $$1+1$$
+moreover $$\ind f \mathrm d \mu$$
 
 ## Typographic replacements
 
