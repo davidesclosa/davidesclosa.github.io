@@ -1,3 +1,6 @@
+
+
+
 [Home](#home) | [Research](#research) | [Publications](#publications) | [CV](#cv) | [Contacts](#contacts)
 
 
@@ -22,6 +25,13 @@ Davide Sclosa
 
 
 
+
+
+
+h1 a {
+    text-decoration: none;
+    color: inherit;
+}
 
 
 
