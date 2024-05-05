@@ -49,7 +49,7 @@ $$
 $$
 
 On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a *smooth* algebraic variety.
-Let us call $$k$$ a *popular index* if $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$ for infinitely many $$n$$.
+Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
 This problem was presented to me by P.Corvaja.
 
@@ -58,10 +58,11 @@ This problem was presented to me by P.Corvaja.
 The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a sigle power series convergent and bounded on the whole real line.
 For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. In a recent paper
 I analyze the set of complex power series [bounded on the real line](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) and, in particular,
-I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this king are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. To this regard, I propose two conjectures.
+I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this king are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
 
 ## Joint Spectral Radius
-Work in progress.
+explain
+In joint work with Giovanni Panti
 
 ## Dynamic Random Graphs
 Work in progress.
