@@ -40,9 +40,9 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 ## Dynamical Systems, Graphs, and Graph Limits
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
-I find particularly fascinating the connections between the underlying *combinatorial structure* and *emergent collective behavior*. For example, I prove false a conjecture by explicitly contructing finite graphs with [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X) while providing an upper bound on the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) based on the number of graph cycles with one edge in common.
-Symmetries are a fundamental tool to analyze dynamics on finite graphs. However, rather than considering large but finite graphs, one sometimes resorts to graph limits.
-[Here](https://link.springer.com/article/10.1007/s10884-023-10334-7) I and C.Bick generalize the theory to dynamics on graph limits by studying graphons and graphops automorphism groups.
+I am particularly fascinated by the connections between the underlying *combinatorial structure* and *emergent collective behavior*. These are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of graph cycles with one edge in common; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
+are related to Eulerian paths. Rather than considering large but finite graphs, one sometimes resorts to graph limits. In joint work with C.Bick, I explore graphon and graphop automorphism groups to generalize symmetries, a fundamental tool to understand dynamical systems on finite graphs,
+to [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 ## Algebraic Groups Over Finite Fields
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
