@@ -40,9 +40,12 @@ And graph limits. [Visit Example](https://www.example.com)
 
 ## Algebraic Groups Over Finite Fields
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups, a monumental achievement in group theory.
-Given a linear algebraic group $$G$$ (for example, $$G$$ can be one of the classical groups $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$), we can obtain
-a sequence of finite groups by varying the field:
+By fixing a linear algebraic group $$G$$ (for example, let $$G$$ be one of the classical groups $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$)
+while varying the underlying field, we obain a sequence of finite groups:
 
+$$
+	G(\mathbb F_p), G(\mathbb F_{p^2}), \ldots, G(\mathbb F_{p^n}), \ldots
+$$
 
 
 
