@@ -17,13 +17,11 @@
     margin-left: 0;
 }
 
-</style>
-
-<style>
 p {
     text-align: justify;
 }
 </style>
+
 
 <ul class="menu">
     <li><a href="#home" style="text-decoration: none; color: black;">Home</a></li>
@@ -43,7 +41,7 @@ I am a mathematician broadly interested in connections between discrete and cont
 ## Dynamical Systems, Finite Graphs, and Graph Limits
 
 <details>
-<summary>Dynamical systems on graphs occur naturally as models of real-life phenomena...</summary>
+<summary>Click here to expand</summary>
 
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
 I am particularly fascinated by the connections between the underlying *combinatorial structure* and *emergent collective behavior*. These are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of graph cycles with one edge in common; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
