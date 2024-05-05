@@ -4,12 +4,12 @@
 
 # Davide Sclosa
 
-## About Me
+I like to do mathematics.
 
 ## Research {#research}
-### Graphs and Dynamics $$\int_0^\pi f \mathrm d \mu$$
-### Power Series and Generating Functions $$\exp(1-\exp(x))$$
-
+### Graphs and Dynamical Systems $$\int_0^\pi f \mathrm d \mu$$
+### Algebraic Groups Over Finite Fields
+### Power Series and Generating Functions $$e^{1-e^x}$$
 
 ## Contact {#contacts}
 Davide Sclosa
