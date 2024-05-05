@@ -36,8 +36,7 @@ I am a mathematician. I am broadly interested in connections between discrete an
 ## Dynamical Systems, Graphs, and Graph Limits
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represents interactions between them.
 I am particularly interested in the relation between combinatorial structure and emergent collective behavior. For example, I prove false a conjecture by explicitly contructing finite graphs with [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); on the other hand, I show that the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of graph cycles with one edge in common.
-Rather than considering large but finite graphs, one sometimes resorts to graph limits. [Here](https://link.springer.com/article/10.1007/s10884-023-10334-7)
-we explore symmetries of graphons and graphops and their consequence for the associated (infinite-dimensional) dynamics.
+Symmetries are a fundamental tool to analyze dynamics on finite graphs. However, rather than considering large but finite graphs, one sometimes resorts to graph limits. [Here](https://link.springer.com/article/10.1007/s10884-023-10334-7) we generalize this theory to graph limits by studying graphons and graphops automorphisms and their consequence for the associated (infinite-dimensional) dynamics.
 
 
 ## Algebraic Groups Over Finite Fields
