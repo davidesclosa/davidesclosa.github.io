@@ -51,6 +51,10 @@ to [dynamical systems on graph limits](https://link.springer.com/article/10.1007
 </details>
 
 ## Algebraic Groups Over Finite Fields
+
+<details>
+<summary>Click here to expand</summary>
+	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}$$, ...).
 By varying the underlying finite field we obtain a sequence of *discrete* finite groups
@@ -63,6 +67,8 @@ On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an 
 Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
 I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
 This problem was presented to me by P.Corvaja.
+
+</details>
 
 ## Bounded Power Series and Generating Functions
 
