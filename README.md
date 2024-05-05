@@ -40,10 +40,9 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 ## Dynamical Systems on Finite Graphs and Graph Limits
 
-Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
-I am particularly fascinated by the connections between the underlying *combinatorial structure* and *emergent collective behavior*. These are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of graph cycles with one edge in common; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
-are related to Eulerian paths. In joint work with C.Bick, I explore graphon and graphop automorphism groups to generalize symmetries, a fundamental tool to understand dynamical systems on finite graphs,
-to [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+Dynamical systems on graphs naturally occur as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
+Fascinating connections exist between the underlying *combinatorial structure* and *emergent collective behavior*. Here are some of my findings: contrary to popular belief, finite graphs can support infinitely many stable equilibria [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of cycles with one edge in common; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
+are related to Eulerian paths. In joint work with C.Bick I explore graphon and graphop automorphism groups to generalize symmetries, which are fundamental tools to understand dynamical systems on finite graphs, to [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 
 ## Algebraic Groups Over Finite Fields
