@@ -42,8 +42,8 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 Dynamical systems on graphs naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
 There are fascinating relations between *combinatorial structure* and *emergent collective behavior*. Here are some of my findings: contrary to popular belief, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the [dimension of the equilibrium set](https://arxiv.org/abs/2308.08311) depends on the number of cycles with one common edge; [nilpotent equilibria](https://arxiv.org/pdf/2112.12034)
-are related to Eulerian paths; graph symmetries, which are fundamental tools to understand dynamics on finite graphs, generalize to graphon and graphop
-automorphisms in the context of [dynamics on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7) (joint work with C. Bick).
+are related to Eulerian paths; graph symmetries, a fundamental tools in dynamics on finite graphs, generalize to graphon and graphop
+automorphisms in [dynamics on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7) (joint work with C. Bick).
 
 ## Algebraic Groups Over Finite Fields
 	
