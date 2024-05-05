@@ -40,11 +40,12 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 ## Dynamical Systems, Finite Graphs, and Graph Limits
 
-<div>
-## PAR_TITLE
+<details>
+<summary>
 
-<details open>
-<summary><strong>Click to expand</strong></summary>
+<strong>Click to expand</strong>
+
+</summary>
 
 $$\int \int$$
 Dynamical systems on graphs occur naturally as models of real-life phenomena. Typically, vertices represent some dynamical quantities and edges represent interactions between them.
@@ -53,7 +54,6 @@ are related to Eulerian paths. In joint work with C.Bick, I explore graphon and 
 to [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 </details>
-</div>
 
 ## Algebraic Groups Over Finite Fields
 
