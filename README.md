@@ -1,6 +1,6 @@
 <style>
 .menu {
-    position: absolute;
+    position: fixed;
     top: 20px;
     right: 20px;
     list-style-type: none;
