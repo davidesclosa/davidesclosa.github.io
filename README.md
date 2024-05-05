@@ -48,15 +48,16 @@ $$
 	G(\mathbb F_p),\ G(\mathbb F_{p^2}),\ \ldots,\ G(\mathbb F_{p^n}), \ldots .
 $$
 
-On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$, living on an algebraic closure, is a *smooth* algebraic variety.
-I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between subgroup indeces appearing for infinitely many $$n$$
-and coverings of the limit object. This problem was presented to me by P.Corvaja.
+On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a *smooth* algebraic variety.
+Let us call $$k$$ a *popular index* if $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$ for infinitely many $$n$$.
+I prove a [correspondence](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) between popular indeces and coverings of the limit object.
+This problem was presented to me by P.Corvaja.
 
 ## Bounded Power Series and Generating Functions
 
 The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a sigle power series convergent and bounded on the whole real line.
-Note that, for a power series, boundedness is a remarkable property: the infinitely many monomials composing the power series have to balance each other out, uniformly, on an unbounded set. [Here](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) I analyze the set of complex power series bounded on the real line. In particular,
-I give necessary conditions for boundedness in terms of the coefficient sequence. Such results are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. Two conjectures are left open.
+For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. [Here](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) I analyze the set of complex power series bounded on the real line and, in particular,
+I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this king are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. To this regard, I propose two conjectures.
 
 ## Dynamic Random Graphs
 Work in progress.
