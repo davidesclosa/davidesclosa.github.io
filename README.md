@@ -1,6 +1,6 @@
 <style>
 .menu {
-    position: fixed;
+    position: absolute;
     top: 20px;
     right: 20px;
     list-style-type: none;
@@ -8,13 +8,8 @@
     padding: 0;
 }
 
-.menu li {
-    display: inline;
-    margin-left: 10px;
-}
-
-.menu li:first-child {
-    margin-left: 0;
+.content {
+    margin-top: 20px; /* Adjust margin top to match menu height */
 }
 </style>
 
