@@ -55,7 +55,7 @@ to [dynamical systems on graph limits](https://link.springer.com/article/10.1007
 
 ## Algebraic Groups Over Finite Fields
 
-<details open>
+<details>
 <summary>Click here to expand</summary>
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
