@@ -19,6 +19,12 @@
 
 </style>
 
+</style>
+p {
+    text-align: justify;
+}
+</style>
+
 <ul class="menu">
     <li><a href="#home" style="text-decoration: none; color: black;">Home</a></li>
     <li><a href="#research" style="text-decoration: none; color: black;">Research</a></li>
@@ -27,11 +33,7 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
-</style>
-p {
-    text-align: justify;
-}
-</style>
+
 
 # Davide Sclosa {#home}
 I am a mathematician broadly interested in connections between discrete and continuous structures.
