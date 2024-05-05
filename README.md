@@ -30,7 +30,7 @@
 .centered-image {
     display: block;
     margin: 0 auto;
-    max-width: 50px;
+    max-width: 20px;
     height: auto;
 }
 </style>
