@@ -63,20 +63,19 @@ This problem was presented to me by P.Corvaja.
 
 ## Bounded Power Series and Generating Functions
 
-The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a sigle power series convergent and bounded on the whole real line.
+The bounded functions $$\sin(x)$$, $$e^{-x^2/2}$$, and $$e^{1-e^x}$$ can be written as a single power series convergent and bounded on the whole real line.
 For a power series, boundedness on a line is a remarkable property: infinitely many monomials have to balance each other out, uniformly, on an unbounded set. In a recent paper
 I analyze the set of complex power series [bounded on the real line](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) and, in particular,
-I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this king are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
+I give necessary conditions for boundedness in terms of the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which I leave open as a conjecture.
 
 ## Joint Spectral Radius
 
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
-The join spectral radius is the supremum of the normalized spectral radii of all finite products.
-The *finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
+The joint spectral radius is the supremum of the normalized spectral radii of all finite products.
+The *Lagarias–Wang finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
 the maximum normalized spectral radius. This conjecture is false for real matrices and open for rational matrices.
 Together with G.Panti, I prove that [the conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
 We apply the result to the study of hyperbolic billiards.
-
 
 ## Dynamic Random Graphs
 To be announced.
