@@ -15,7 +15,7 @@
 
 
 
-$\int_0^\pi f \mathrm d \mu$
+$$\int_0^\pi f \mathrm d \mu$$
 
 
 
