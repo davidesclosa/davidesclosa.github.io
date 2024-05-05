@@ -30,12 +30,10 @@
 .profile-image {
     float: right;
     margin: 0 0 10px 10px; /* Adjust margins as needed */
-    max-width: 50px; /* Adjust the maximum width of the image */
+    max-width: 10px; /* Adjust the maximum width of the image */
     height: auto;
 }
 </style>
-
-<!-- Your content goes here -->
 
 <img src="me.png" alt="Profile Picture" class="profile-image">
 
