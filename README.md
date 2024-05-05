@@ -26,9 +26,18 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
-<div style="text-align: center;">
-    <img src="me.png" alt="Profile Picture" style="max-width: 100px;">
-</div>
+<style>
+.profile-image {
+    float: right;
+    margin: 0 0 10px 10px; /* Adjust margins as needed */
+    max-width: 50px; /* Adjust the maximum width of the image */
+    height: auto;
+}
+</style>
+
+<!-- Your content goes here -->
+
+<img src="me.png" alt="Profile Picture" class="profile-image">
 
 
 # Davide Sclosa {#home}
