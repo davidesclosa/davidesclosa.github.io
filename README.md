@@ -31,6 +31,30 @@
 # Davide Sclosa {#home}
 I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
 
+
+<svg width="300" height="300">
+  <circle cx="100" cy="100" r="80" fill="lightblue" stroke="black" stroke-width="2"/>
+  <circle cx="200" cy="100" r="80" fill="lightgreen" stroke="black" stroke-width="2"/>
+  <circle cx="150" cy="200" r="80" fill="lightcoral" stroke="black" stroke-width="2"/>
+  <text x="60" y="110" font-family="Arial" font-size="16" fill="black">A</text>
+  <text x="205" y="110" font-family="Arial" font-size="16" fill="black">B</text>
+  <text x="150" y="240" font-family="Arial" font-size="16" fill="black">C</text>
+  <text x="135" y="110" font-family="Arial" font-size="16" fill="black">
+    <a href="#anchor_A">A</a>
+  </text>
+  <text x="160" y="110" font-family="Arial" font-size="16" fill="black">
+    <a href="#anchor_B">B</a>
+  </text>
+  <text x="150" y="190" font-family="Arial" font-size="16" fill="black">
+    <a href="#anchor_C">C</a>
+  </text>
+  <text x="150" y="110" font-family="Arial" font-size="16" fill="black">
+    <a href="#anchor_ABC">ABC</a>
+  </text>
+</svg>
+
+
+
 # My Research {#research}
 
 ## Dynamical Systems, Graphs, and Graph Limits
