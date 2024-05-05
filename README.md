@@ -9,7 +9,7 @@
 }
 
 .content {
-    margin-top: 20px; /* Adjust margin top to match menu height */
+    margin-top: 200px; /* Adjust margin top to match menu height */
 }
 </style>
 
@@ -21,15 +21,6 @@
     <li><a href="#contacts" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
 
-
-<style>
-.profile-image {
-    display: block;
-    margin: 0 auto 10px; /* Center the image horizontally and add margin below */
-    max-width: 200px; /* Adjust the maximum width of the image */
-    height: auto;
-}
-</style>
 
 # Davide Sclosa {#home}
 I am a mathematician. I am broadly interested in connections between discrete and continuous structures.
