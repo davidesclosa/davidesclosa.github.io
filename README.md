@@ -34,11 +34,12 @@ p {
 
 
 # Davide Sclosa {#home}
-I am a mathematician broadly interested in connections between discrete and continuous structures.
+I am a mathematician.
 
-# My Research {#research}
+## Research {#research}
+I am broadly interested in connections between discrete and continuous structures.
 
-## Dynamical Systems on Finite Graphs and Graph Limits
+### Dynamical Systems on Finite Graphs and Graph Limits
 
 Graph dynamical systems naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
 There are fascinating relations between *combinatorial properties* and *collective behavior*. These are my contributions: contrary to popular belief, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the dimension of the equilibrium set
@@ -46,7 +47,7 @@ depends on the [number of cycles with common edges](https://arxiv.org/abs/2308.0
 are related to [Eulerian paths](https://arxiv.org/pdf/2112.12034); and (joint work with C. Bick) the theory of graph symmetries, a fundamental tool in the finite case, generalizes
 to [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
-## Algebraic Groups Over Finite Fields
+### Algebraic Groups Over Finite Fields
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
@@ -57,7 +58,7 @@ I prove correspondence between [popular indeces and coverings](https://www.degru
 This problem was presented to me by P. Corvaja.
 
 
-## Bounded Power Series and Generating Functions
+### Bounded Power Series and Generating Functions
 
 The existence of power series bounded on the whole real line, like $$\sin(x)$$ and $$e^{-x^2/2}$$,
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
@@ -65,7 +66,7 @@ is in itself a remarkable fact: infinitely many monomials have to balance each o
 I study the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and, in particular,
 obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
 
-## Lagarias–Wang Finiteness Conjecture
+### Lagarias–Wang Finiteness Conjecture
 
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
@@ -74,15 +75,15 @@ the maximum normalized spectral radius. This conjecture is false for real matric
 Together with G. Panti, I prove that [this conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
 We apply the result to the study of hyperbolic billiards.
 
-## Dynamic Random Graphs
+### Dynamic Random Graphs
 To be announced.
 
 
-# Complete List of Publications {#publications}
+## Complete List of Publications {#publications}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
-# Contacts {#contacts}
+## Contacts {#contacts}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
