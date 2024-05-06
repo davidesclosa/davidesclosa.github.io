@@ -59,11 +59,11 @@ This problem was presented to me by P. Corvaja.
 
 ## Bounded Power Series on the Real Line and Generating Functions
 
-The existence of power series bounded on the whole real line (like $$\sin(x)$$ and $$e^{-x^2/2}$$)
+The existence of power series bounded on the whole real line, like $$\sin(x)$$ and $$e^{-x^2/2}$$,
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
 (in contrast, power series bounded on the complex plane are constant).
-I analyze the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and
-obtain necessary conditions for the coefficient sequence. Results of this kind are particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, which is left open as a conjecture.
+I study the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and, in particular,
+obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
 
 ## Lagarias–Wang Finiteness Conjecture
 
