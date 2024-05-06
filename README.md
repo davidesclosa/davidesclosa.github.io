@@ -57,7 +57,7 @@ I prove correspondence between [popular indeces and coverings](https://www.degru
 This problem was presented to me by P. Corvaja.
 
 
-## Bounded Power Series on the Real Line and Generating Functions
+## Bounded Power Series and Generating Functions
 
 The existence of power series bounded on the whole real line, like $$\sin(x)$$ and $$e^{-x^2/2}$$,
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
