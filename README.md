@@ -36,7 +36,7 @@ p {
 # Davide Sclosa {#home}
 I am a mathematician.
 
-## Research {#research}
+# Research {#research}
 I am broadly interested in connections between discrete and continuous structures.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
@@ -79,11 +79,11 @@ We apply the result to the study of hyperbolic billiards.
 To be announced.
 
 
-## Complete List of Publications {#publications}
+# Complete List of Publications {#publications}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
-## Contacts {#contacts}
+# Contacts {#contacts}
 [Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
