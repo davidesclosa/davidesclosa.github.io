@@ -42,7 +42,7 @@ I am a mathematician broadly interested in connections between discrete and cont
 
 Graph dynamical systems naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
 There are fascinating relations between *combinatorial properties* and *collective behavior*. These are my contributions: contrary to popular belief, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the dimension of the equilibrium set
-depends on the [number of cycles with one common edge](https://arxiv.org/abs/2308.08311); nilpotent equilibria
+depends on the [number of cycles with common edges](https://arxiv.org/abs/2308.08311); nilpotent equilibria
 are related to [Eulerian paths](https://arxiv.org/pdf/2112.12034); and (joint work with C. Bick) the theory of graph symmetries, a fundamental tool in the finite case, generalizes
 to [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
