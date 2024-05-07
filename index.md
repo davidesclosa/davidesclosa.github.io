@@ -37,12 +37,8 @@ I investigate connections between discrete and continuous structures in mathemat
     }
     
     .container {
-        max-width: 400px;
+        max-width: 100px;
         margin: 0 auto;
         padding: 0 20px;
     }
 </style>
-
-<div class="container">
-    <!-- Your content goes here -->
-</div>
