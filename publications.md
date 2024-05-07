@@ -17,3 +17,12 @@
 	_Nonlinearity_ 34 (8), 5234, 2021
 
 The full list of publications is [Here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
+
+
+
+
+
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
