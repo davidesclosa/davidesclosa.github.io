@@ -22,11 +22,6 @@
 # Davide Sclosa {#home}
 I investigate connections between discrete and continuous structures in mathematics.
 
-<div style="text-align: center;">
-    <a href="research">Research</a> | 
-    <a href="publications">Publications</a> | 
-    <a href="mailto:davide.sclosa@gmail.com">Contact Me</a>
-</div>
 
 <ul class="menu">
     <li><a href="index" style="text-decoration: none; color: black;">Home</a></li>
