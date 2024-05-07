@@ -20,7 +20,7 @@
 
 
 # Davide Sclosa {#home}
-I investigate relations between discrete and continuous structures in mathematics.
+mathematician
 
 
 <ul class="menu">
