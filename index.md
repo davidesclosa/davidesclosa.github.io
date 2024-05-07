@@ -42,3 +42,10 @@ To know more about my research interests, scroll [down](#research).
     <li><a href="#research.md" style="text-decoration: none; color: black;">Research</a></li>
     <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contact Me</a></li>
 </ul>
+
+
+
+
+
+
+
