@@ -35,5 +35,7 @@ I investigate connections between discrete and continuous structures in mathemat
     body {
         text-align: center;
         max-width: 400px;
+        margin: 0 auto;
+        padding: 0 20px;
     }
 </style>
