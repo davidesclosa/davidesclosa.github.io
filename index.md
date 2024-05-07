@@ -34,11 +34,6 @@ I investigate connections between discrete and continuous structures in mathemat
 <style>
     body {
         text-align: center;
-    }
-    
-    .container {
-        max-width: 100px;
-        margin: 0 auto;
-        padding: 0 20px;
+        max-width: 400px;
     }
 </style>
