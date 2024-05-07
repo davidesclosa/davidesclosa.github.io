@@ -47,9 +47,7 @@
 	G. Panti, D. Sclosa,
 	_Nonlinearity_ 34 (8), 5234, 2021
 
-The full list of publications is [Here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
-
-
+The full list of publications can be found [here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
 
 
 
