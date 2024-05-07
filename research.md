@@ -58,5 +58,9 @@ To be announced.
 </script>
 
 
-
+<style>
+	p {
+    text-align: justify;
+}
+</style>
 
