@@ -31,9 +31,9 @@
 
 # Selected Publications
 
-* _Dynamical Systems on Graph Limits and Their Symmetries_,
-	C. Bick, D. Sclosa,
-	_Journal of Dynamics and Differential Equations_, 1-36, 2024
+* C.BICK, D.SCLOSA,
+	_Dynamical Systems on Graph Limits and Their Symmetries_,
+	Journal of Dynamics and Differential Equations, 1-36, 2024
 
 * _Algebraic groups over finite fields: Connections between subgroups and isogenies_,
 	D. Sclosa,
