@@ -39,21 +39,24 @@ I am a mathematician.
 ### Selected Publications
 If you want to know more about my research interests instead, scroll [down](#research).
 
-* [__Dynamical Systems on Graph Limits and Their Symmetries__](https://link.springer.com/article/10.1007/s10884-023-10334-7)
+* __Dynamical Systems on Graph Limits and Their Symmetries__,
 	C. Bick, D. Sclosa,
 
-	__Journal of Dynamics and Differential Equations__, 1-36, 2024
+	_Journal of Dynamics and Differential Equations_, 1-36, 2024
 
-* [__Algebraic groups over finite fields: Connections between subgroups and isogenies__](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en)
+* __Algebraic groups over finite fields: Connections between subgroups and isogenies__,
 	D. Sclosa,
-	__Journal of Group Theory__, 26 (6), 1143-1155, 2023
+
+	_Journal of Group Theory_, 26 (6), 1143-1155, 2023
 
 * __Bounded Power Series on the Real Line__,
 	D Sclosa,
+
 	_Journal of Mathematical Analysis and Applications_, 128448		2024
 
 * __The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$__,
 	G. Panti, D. Sclosa,
+
 	_Nonlinearity_ 34 (8), 5234, 2021
 
 The full list of publications is [Here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
