@@ -37,9 +37,9 @@ I investigate connections between discrete and continuous structures in mathemat
     }
     
     .container {
-        max-width: 600px; /* Adjust the width as needed */
-        margin: 0 auto; /* Center the container horizontally */
-        padding: 0 20px; /* Optional: Add padding to the sides */
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 0 20px;
     }
 </style>
 
