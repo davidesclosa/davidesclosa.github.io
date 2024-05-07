@@ -1,8 +1,12 @@
 <style>
+.container {
+    position: relative;
+}
+
 .menu {
     position: absolute;
-    top: 30;
-    right: 30;
+    top: 10px;
+    right: 10px;
     list-style-type: none;
     margin: 0;
     padding: 0;
