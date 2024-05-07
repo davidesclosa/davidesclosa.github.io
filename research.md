@@ -38,6 +38,7 @@ I am broadly interested in connections between discrete and continuous structure
 [finite groups and algebraic varieties](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en),
 [combinatorial sequences and analytic functions](https://www.sciencedirect.com/science/article/pii/S0022247X24003706),
 [matrix semigroups and hyperbolic surfaces](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta).
+I this page I present my contributions in these areas.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
