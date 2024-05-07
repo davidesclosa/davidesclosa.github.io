@@ -39,14 +39,12 @@ I am a mathematician.
 ### Selected Publications
 If you want to know more about my research interests instead, scroll [down](#research).
 
-* [__Dynamical Systems on Graph Limits and Their Symmetries__],
-	(https://link.springer.com/article/10.1007/s10884-023-10334-7)
+* [__Dynamical Systems on Graph Limits and Their Symmetries__](https://link.springer.com/article/10.1007/s10884-023-10334-7)
 	C. Bick, D. Sclosa,
 
 	__Journal of Dynamics and Differential Equations__, 1-36, 2024
 
-* [__Algebraic groups over finite fields: Connections between subgroups and isogenies__],
-	(https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en)
+* [__Algebraic groups over finite fields: Connections between subgroups and isogenies__](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en)
 	D. Sclosa,
 	__Journal of Group Theory__, 26 (6), 1143-1155, 2023
 
