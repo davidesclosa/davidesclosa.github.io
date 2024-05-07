@@ -1,3 +1,25 @@
+<style>
+.menu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 10px;
+}
+
+.menu li:first-child {
+    margin-left: 0;
+}
+</style>
+
+
+
 
 # Davide Sclosa {#home}
 I investigate connections between discrete and continuous structures in mathematics.
@@ -9,6 +31,12 @@ I investigate connections between discrete and continuous structures in mathemat
     <a href="publications">Publications</a> | 
     <a href="mailto:davide.sclosa@gmail.com">Contact Me</a>
 </div>
+
+<ul class="menu">
+    <li><a href="#home" style="text-decoration: none; color: black;">Research</a></li>
+    <li><a href="#publications" style="text-decoration: none; color: black;">Publications</a></li>
+    <li><a href="#mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contact Me</a></li>
+</ul>
 
 
 <style>
