@@ -78,12 +78,6 @@ We apply the result to the study of hyperbolic billiards.
 To be announced.
 
 
-# Contacts {#contacts}
-[Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
-
-
-
-
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
