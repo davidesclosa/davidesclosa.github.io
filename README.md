@@ -26,7 +26,6 @@ p {
 <ul class="menu">
     <li><a href="#home" style="text-decoration: none; color: black;">Home</a></li>
     <li><a href="#research" style="text-decoration: none; color: black;">Research</a></li>
-    <li><a href="#publications" style="text-decoration: none; color: black;">Publications</a></li>
     <li><a href="#cv" style="text-decoration: none; color: black;">CV</a></li>
     <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
@@ -35,6 +34,8 @@ p {
 
 # Davide Sclosa {#home}
 I am a mathematician.
+
+[Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 # Research {#research}
 I am broadly interested in connections between discrete and continuous structures.
@@ -76,10 +77,6 @@ We apply the result to the study of hyperbolic billiards.
 
 ### Dynamic Random Graphs
 To be announced.
-
-
-# Complete List of Publications {#publications}
-[Google Scholar](https://scholar.google.com/citations?user=B392PEAAAAAJ)
 
 
 # Contacts {#contacts}
