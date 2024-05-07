@@ -41,6 +41,7 @@ If you want to know more about my research interests instead, scroll [down](#res
 
 * _Dynamical Systems on Graph Limits and Their Symmetries_,
 	C Bick, D Sclosa,
+
 	Journal of Dynamics and Differential Equations, 1-36, 2024
 
 * _Algebraic groups over finite fields: Connections between subgroups and isogenies_,
