@@ -1,3 +1,24 @@
+<style>
+.menu {
+    position: absolute;
+    top: 30;
+    right: 30;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-left: 10px;
+}
+
+.menu li:first-child {
+    margin-left: 0;
+}
+</style>
+
+
 
 
 # Research
