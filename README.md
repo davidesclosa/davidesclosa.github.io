@@ -40,7 +40,6 @@ I am a mathematician.
 I am broadly interested in connections between discrete and continuous structures.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
-![asymmetric](asymmetric.pdf)
 Graph dynamical systems naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
 There are fascinating relations between *combinatorial properties* and *collective behavior*. These are my contributions: contrary to popular belief, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the dimension of the equilibrium set
 depends on the [number of cycles with common edges](https://arxiv.org/abs/2308.08311); nilpotent equilibria
