@@ -4,7 +4,7 @@ I research connections between discrete and continuous structures in mathematics
 
 [Research](research.md) [Publications](publications.md) [Contact Me](mailto:davide.sclosa@gmail.com)
 
-<div style="text-align: center;">
+<div align="center">
     [Research](research.md) | 
     [Publications](publications.md) | 
     [Contact Me](mailto:davide.sclosa@gmail.com)
