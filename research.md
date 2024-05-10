@@ -33,23 +33,24 @@
 
 
 # Research
-I am broadly interested in relations between discrete and continuous structures.
+I am broadly interested in relations between discrete and continuous structures. As such, I usually end up at the intersection of two mathematical fields.
+In this page I list some of my contributions.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 There are fascinating relations between combinatorial structure and collective behavior.
 I solved a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X);
 moreover, I related certain dynamical phenomena to [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034).
-Together with with C. Bick, I studied symmetry in [dynamical systems on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
-### Algebraic Groups Over Finite Fields
+### Finite Groups and Algebraic Geometry
 	
 Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
-By varying the underlying finite field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
-On the other hand the "limit object" $$G(\overline{\mathbb F_p})$$ living on an algebraic closure is a smooth algebraic variety.
-Let us call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
-I prove correspondence between [popular indeces and coverings](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en) of the limit object.
+By varying the underlying field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
+In contrast, the "limit object" $$G(\overline{\mathbb F_p})$$ on an algebraic closure is a smooth algebraic variety.
+We call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
+I prove correspondence between [popular indeces and coverings of the limit object](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en).
 This problem was presented to me by P. Corvaja.
 
 
