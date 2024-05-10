@@ -39,7 +39,7 @@ I am broadly interested in relations between discrete and continuous structures.
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 There are fascinating relations between combinatorial structure and collective behavior.
 By answering a conjecture, I constructed finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X);
-moreover, I related certain dynamical phenomena to [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311); and [Eulerian paths](https://arxiv.org/pdf/2112.12034).
+moreover, I related certain dynamical phenomena to [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034).
 Together with with C. Bick, I extended the theory of symmetry from finite graphs to [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 ### Algebraic Groups Over Finite Fields
