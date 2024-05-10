@@ -33,19 +33,15 @@
 
 
 # Research
-I investigate relations between discrete and continuous structures in mathematics, for example between
-[finite graphs and dynamical systems](https://link.springer.com/article/10.1007/s10884-023-10334-7),
-[finite groups and algebraic varieties](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en),
-[combinatorial sequences and analytic functions](https://www.sciencedirect.com/science/article/pii/S0022247X24003706),
-[matrix semigroups and hyperbolic surfaces](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta).
-I this page I present my contribution to these areas.
+I am broadly interested in relations between discrete and continuous structures.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
-Graph dynamical systems naturally occur as models of physical phenomena: vertices represent dynamical quantities and edges represent interactions between them.
-There are fascinating relations between *combinatorial properties* and *collective behavior*. These are my contributions: contrary to popular belief, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X); the dimension of the equilibrium set
-depends on the [number of cycles with common edges](https://arxiv.org/abs/2308.08311); nilpotent equilibria
-are related to [Eulerian paths](https://arxiv.org/pdf/2112.12034); and (joint work with C. Bick) the theory of graph symmetries, a fundamental tool in the finite case, generalizes
-to [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
+There are fascinating relations between *combinatorial properties* and *collective behavior*.
+By answering a conjecture, I constructed finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X);
+moreover, I investigated relation between dynamical phenomena and certain combinatorial structures,
+such as [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311); and [Eulerian paths](https://arxiv.org/pdf/2112.12034).
+Together with with C. Bick, extended the theory of symmetry to [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 ### Algebraic Groups Over Finite Fields
 	
