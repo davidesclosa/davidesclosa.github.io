@@ -53,8 +53,7 @@ Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and g
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
   <span style="color: gray; font-size: 20px;">#group_theory #algebraic_geometry</span>
 </p>
-The classification of finite simple groups is one of the greatest achievements in mathematics,
-providing a comprehensive understanding of the building blocks of all finite groups.
+The classification of finite simple groups, the building blocks of all finite groups, is one of the greatest achievements in mathematics.
 In the classication, a central role is played by linear algebraic groups defined over finite fields.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 Consider the sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$ obtained by varying the underlying field.
