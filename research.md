@@ -64,7 +64,7 @@ This problem was presented to me by P. Corvaja.
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
   <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
 </p>
-For a power series to be bounded on the real line, think of $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$,
+For a power series to be bounded on the real line, think of $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$,
 infinitely many monomials have to balance each other out, uniformly, on an unbounded set.
 This is remarkable: in contrast, bounded power series on the complex plane are constant.
 I relate [coefficients of a power series]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) to boundedness of the resulting function.
