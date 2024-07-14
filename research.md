@@ -39,7 +39,7 @@ This page presents some of my contributions.
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
-  <span style="color: gray; font-size: 20px;">#graphtheory #dynamicalsystems</span>
+  <span style="color: gray; font-size: 20px;">#graph_theory #dynamical_systems</span>
 </p>
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
@@ -50,7 +50,7 @@ Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and g
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
-  <span style="color: gray; font-size: 20px;">#grouptheory #algebraicgeometry</span>
+  <span style="color: gray; font-size: 20px;">#group_theory #algebraic_geometry</span>
 </p>
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 By varying the underlying field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
@@ -73,7 +73,7 @@ obtain necessary conditions on the coefficient sequence; this is particularly im
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
-  <span style="color: gray; font-size: 20px;">#dynamicalsystems #combinatorics</span>
+  <span style="color: gray; font-size: 20px;">#dynamical_systems #combinatorics</span>
 </p>
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
@@ -85,7 +85,7 @@ We apply the result to the study of hyperbolic billiards.
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
-  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamics</span>
+  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamical_systems</span>
 </p>
 To be announced.
 
