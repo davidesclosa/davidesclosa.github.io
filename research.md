@@ -38,24 +38,21 @@ This page presents some of my contributions.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
-There are fascinating relations between combinatorial structure and collective behavior.
-I solved a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X);
-moreover, I related certain dynamical phenomena to [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034).
+The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
+I proved false a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
+I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034) to set of equilibria and stability.
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 ### Finite Groups and Algebraic Geometry
-	
-Linear algebraic groups over finite fields play a crucial role in the classification of finite simple groups.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 By varying the underlying field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
-In contrast, the "limit object" $$G(\overline{\mathbb F_p})$$ on an algebraic closure is a smooth algebraic variety.
+The "limit object" $$G(\overline{\mathbb F_p})$$ (defined on an algebraic closure) is a smooth algebraic variety.
 We call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
 I prove correspondence between [popular indeces and coverings of the limit object](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en).
 This problem was presented to me by P. Corvaja.
 
 
 ### Bounded Power Series and Generating Functions
-
 The existence of power series bounded on the whole real line, like $$\sin(x)$$ and $$e^{-x^2/2}$$,
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
 (in contrast, power series bounded on the complex plane are constant).
@@ -63,7 +60,6 @@ I study the set of [bounded power series on the real line]((https://www.scienced
 obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
 
 ### Lagarias–Wang Finiteness Conjecture
-
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
 The *Lagarias–Wang finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
