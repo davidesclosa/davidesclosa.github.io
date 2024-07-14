@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,14 +31,26 @@
         .menu li a {
             text-decoration: none;
             color: black;
-            padding: 5px 10px;
+            padding: 8px 12px; /* Adjust padding as needed */
             display: inline-block;
+            border: 1px solid #ccc; /* Border style */
+            border-radius: 4px; /* Rounded corners */
+        }
+
+        .menu li a:hover {
+            background-color: #f0f0f0; /* Background color on hover */
+        }
+
+        .intro {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
     <h1 id="home">Davide Sclosa</h1>
-    <p><i>I am interested in relations between discrete and continuous structures in mathematics.</p>
+    <p class="intro">Mathematician.</p>
 
     <ul class="menu">
         <li><a href="index.html">Home</a></li>
@@ -45,3 +59,4 @@
         <li><a href="mailto:davide.sclosa@gmail.com">Contact Me</a></li>
     </ul>
 </body>
+</html>
