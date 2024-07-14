@@ -37,6 +37,12 @@ I am broadly interested in relations between discrete and continuous structures.
 This page presents some of my contributions.
 
 
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: bold; font-size: 16px;">**LeftWord**</span>
+  <span style="color: gray; font-size: 14px;">#RightWord</span>
+</p>
+
+
 ### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
