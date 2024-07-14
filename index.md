@@ -20,7 +20,7 @@
 
 
 # Davide Sclosa {#home}
-mathematician
+Mathematician. I am broadly interested in relations between discrete and continuous structures.
 
 
 <ul class="menu">
