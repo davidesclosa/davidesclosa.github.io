@@ -41,9 +41,6 @@ This page presents some of my contributions.
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
   <span style="color: gray; font-size: 20px;">#GraphTheory #DynamicalSystems</span>
 </p>
-
-
-### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
 I proved false a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
@@ -51,11 +48,9 @@ I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) a
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Finite Graphs and Graph Limits </span>
+  <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
   <span style="color: gray; font-size: 20px;">#GroupTheory #AlgebraicGeometry</span>
 </p>
-
-### Finite Groups and Algebraic Geometry
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 By varying the underlying field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
 The "limit object" $$G(\overline{\mathbb F_p})$$ (defined on an algebraic closure) is a smooth algebraic variety.
