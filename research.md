@@ -38,7 +38,7 @@ This page presents some of my contributions.
 
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style=" font-size: 20px;">Dynamical Systems on Graphs </span>
+  <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
   <span style="color: gray; font-size: 20px;">#graphtheory #dynamicalsystems</span>
 </p>
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
@@ -46,6 +46,7 @@ The goal of this theory is relating the underlying combinatorial structure with 
 I proved false a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
 I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034) to set of equilibria and stability.
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
@@ -58,6 +59,7 @@ We call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\math
 I prove correspondence between [popular indeces and coverings of the limit object](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en).
 This problem was presented to me by P. Corvaja.
 
+
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
   <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
@@ -67,6 +69,7 @@ is in itself a remarkable fact: infinitely many monomials have to balance each o
 (in contrast, power series bounded on the complex plane are constant).
 I study the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and, in particular,
 obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
+
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
@@ -80,7 +83,10 @@ Together with G. Panti, I prove that [this conjecture holds](https://iopscience.
 We apply the result to the study of hyperbolic billiards.
 
 
-### Dynamic Random Graphs
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
+  <span style="color: gray; font-size: 20px;">#probability #combinatorics</span>
+</p>
 To be announced.
 
 
