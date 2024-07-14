@@ -45,4 +45,3 @@
         <li><a href="mailto:davide.sclosa@gmail.com">Contact Me</a></li>
     </ul>
 </body>
-</html>
