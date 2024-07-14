@@ -36,6 +36,7 @@
 I am broadly interested in relations between discrete and continuous structures.
 This page presents some of my contributions.
 
+___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
@@ -47,7 +48,7 @@ I proved false a conjecture by constructing finite graphs supporting [infinitely
 I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034) to set of equilibria and stability.
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
-
+___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
@@ -62,6 +63,7 @@ Let $$k$$ be a *popular index* if for infinitely many $$n$$ the group $$G(\mathb
 I prove correspondence between [popular indeces and coverings of the algebraic variety](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en).
 This problem was presented to me by P. Corvaja.
 
+___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
@@ -75,6 +77,7 @@ Such results are particularly important for bounded generating functions, like $
 Moreover, I show that the set of real bounded power series supports three natural (but inequivalent) topologies and that the shift operator is invertible on a dense subset.
 I am unable to close a certain gap, see conjecture 2.7.
 
+___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
@@ -87,6 +90,7 @@ the maximum normalized spectral radius. This conjecture is false for real matric
 Together with G. Panti, I prove that [this conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
 We apply the result to the study of hyperbolic billiards.
 
+___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
@@ -100,6 +104,7 @@ To be announced.
   type="text/javascript">
 </script>
 
+___
 
 <style>
 	p {
