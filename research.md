@@ -64,11 +64,13 @@ This problem was presented to me by P. Corvaja.
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
   <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
 </p>
-The existence of power series bounded on the whole real line, like $$\sin(x)$$ and $$e^{-x^2/2}$$,
-is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
-(in contrast, power series bounded on the complex plane are constant).
-I study the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and, in particular,
-obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
+Consider a power series bounded on the real line, like $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$.
+For this to occur, infinitely many monomials have to balance each other out, uniformly, on the real line.
+The existence of such power series is remarkable (in contrast, bounded power series on the complex plane are constant).
+I relate [coefficients of a power series]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) to boundedness of the resulting function.
+This is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning.
+Moreover, I show that the set of real bounded power series supports three natural (but inequivalent) topologies and that the shift operator is invertible on a dense subset.
+I am unable to close a certain gap, see conjecture 2.7.
 
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
