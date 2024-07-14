@@ -64,9 +64,9 @@ This problem was presented to me by P. Corvaja.
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
   <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
 </p>
-Consider a power series bounded on the real line, like $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$.
-For this to occur, infinitely many monomials have to balance each other out, uniformly, on the real line.
-The existence of such power series is remarkable (in contrast, bounded power series on the complex plane are constant).
+For a power series to be bounded on the real line, think of $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$,
+infinitely many monomials have to balance each other out, uniformly, on an unbounded set.
+This is remarkable: in contrast, bounded power series on the complex plane are constant.
 I relate [coefficients of a power series]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) to boundedness of the resulting function.
 This is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning.
 Moreover, I show that the set of real bounded power series supports three natural (but inequivalent) topologies and that the shift operator is invertible on a dense subset.
