@@ -75,7 +75,7 @@ This is a remarkable phenomenon: in contrast, bounded power series on the comple
 I relate [coefficients of a power series](https://www.sciencedirect.com/science/article/pii/S0022247X24003706) to boundedness of the resulting function.
 Such results are particularly important for bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning.
 Moreover, I show that the set of real bounded power series supports three natural (but inequivalent) topologies and that the shift operator is invertible on a dense subset.
-I am unable to close a certain gap, see conjecture 2.7.
+I am unable to close a certain gap, see Conjecture 2.7. Speciality coffee is offered for the solution.
 
 ___
 
