@@ -85,7 +85,7 @@ We apply the result to the study of hyperbolic billiards.
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
-  <span style="color: gray; font-size: 20px;">#probability #combinatorics</span>
+  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamics</span>
 </p>
 To be announced.
 
