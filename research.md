@@ -33,8 +33,8 @@
 
 
 # Research
-I am broadly interested in relations between discrete and continuous structures. As such, I usually end up at the intersection of two mathematical fields.
-In this page I list some of my contributions.
+I am broadly interested in relations between discrete and continuous structures.
+This page presents some of my contributions.
 
 ### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
