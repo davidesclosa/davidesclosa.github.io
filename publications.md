@@ -31,24 +31,24 @@
 
 # Publications
 
-* _Dynamical Systems on Graph Limits and Their Symmetries_, C.Bick, D.Sclosa,
+* **Dynamical Systems on Graph Limits and Their Symmetries**, C.Bick, D.Sclosa,
 
-    **Journal of Dynamics and Differential Equations**, 1-36, 2024
-
-
-* _Algebraic groups over finite fields: Connections between subgroups and isogenies_, D. Sclosa,
-
-    **Journal of Group Theory**, 26 (6), 1143-1155, 2023
+    _Journal of Dynamics and Differential Equations_, 1-36, 2024
 
 
-* _Bounded Power Series on the Real Line_, D. Sclosa,
+* **Algebraic groups over finite fields: Connections between subgroups and isogenies**, D. Sclosa,
 
-    **Journal of Mathematical Analysis and Applications**, 128448,	2024
+    _Journal of Group Theory_, 26 (6), 1143-1155, 2023
 
 
-* _The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$_, G.Panti, D.Sclosa,
+* **Bounded Power Series on the Real Line**, D. Sclosa,
 
-    **Nonlinearity**, 34 (8), 5234, 2021
+    _Journal of Mathematical Analysis and Applications_, 128448,	2024
+
+
+* **The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$**, G.Panti, D.Sclosa,
+
+    _Nonlinearity_, 34 (8), 5234, 2021
 
 
 ---
