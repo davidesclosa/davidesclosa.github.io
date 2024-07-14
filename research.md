@@ -38,8 +38,8 @@ This page presents some of my contributions.
 
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 16px;">**LeftWord**</span>
-  <span style="color: gray; font-size: 14px;">#RightWord</span>
+  <span style="font-weight: bold; font-size: 18px;">Dynamical Systems on Finite Graphs and Graph Limits </span>
+  <span style="color: gray; font-size: 18px;">#GraphTheory #DynamicalSystems</span>
 </p>
 
 
