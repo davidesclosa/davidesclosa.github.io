@@ -39,7 +39,7 @@ This page presents some of my contributions.
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
-  <span style="color: gray; font-size: 20px;">#graph_theory #dynamical_systems</span>
+  <span style="color: gray; font-size: 20px;">#graphtheory #dynamicalsystems</span>
 </p>
 A group of people exchanging opinions. A network of neurons firing. An artificial neural network during the learning phase. A self-replicating machine in a cellular automaton. A graph with vertices turning on and off at random according to the state of the adjacent vertices. A random graph with edges turning on and off at random according to the adjacent edges.
 Each of these phenomena is (or can be effectively understood as) a dynamical system on a graph, with vertices representing dynamical quantities and edges representing interactions among them. Clearly, a change in the structure of the graph should result in some change in the dynamics. However, the relation between graph structure and dynamics is subtle and, sometimes, even surprising.
@@ -51,7 +51,7 @@ Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and g
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
-  <span style="color: gray; font-size: 20px;">#group_theory #algebraic_geometry</span>
+  <span style="color: gray; font-size: 20px;">#grouptheory #algebraicgeometry</span>
 </p>
 The classification of finite simple groups, the building blocks of all finite groups, is one of the greatest achievements in mathematics.
 In the classication, a central role is played by linear algebraic groups defined over finite fields.
@@ -78,7 +78,7 @@ I am unable to close a certain gap, see conjecture 2.7.
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
-  <span style="color: gray; font-size: 20px;">#dynamical_systems #combinatorics</span>
+  <span style="color: gray; font-size: 20px;">#dynamicalsystems #combinatorics</span>
 </p>
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
@@ -90,7 +90,7 @@ We apply the result to the study of hyperbolic billiards.
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
-  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamical_systems</span>
+  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamicalsystems</span>
 </p>
 To be announced.
 
