@@ -41,7 +41,7 @@
 
 * _Bounded Power Series on the Real Line_, D. Sclosa,
 
- 	**Journal of Mathematical Analysis and Applications**, 128448		2024
+ 	**Journal of Mathematical Analysis and Applications**, 128448,	2024
 
 * _The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$_, G.Panti, D.Sclosa,
 
