@@ -31,23 +31,19 @@
 
 # Selected Publications
 
-* C.BICK, D.SCLOSA,
-	_Dynamical Systems on Graph Limits and Their Symmetries_,
+* _Dynamical Systems on Graph Limits and Their Symmetries_, C.Bick, D.Sclosa,
 
 	**Journal of Dynamics and Differential Equations**, 1-36, 2024
 
-* D. SCLOSA,
-	_Algebraic groups over finite fields: Connections between subgroups and isogenies_,
+* _Algebraic groups over finite fields: Connections between subgroups and isogenies_, D. Sclosa,
 
 	**Journal of Group Theory**, 26 (6), 1143-1155, 2023
 
-* D. SCLOSA,
-	_Bounded Power Series on the Real Line_,
+* _Bounded Power Series on the Real Line_, D. Sclosa,
 
  	**Journal of Mathematical Analysis and Applications**, 128448		2024
 
-* G.PANTI, D.SCLOSA,
-	_The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$_,
+* _The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$_, G.Panti, D.Sclosa,
 
 	**Nonlinearity**, 34 (8), 5234, 2021
 
