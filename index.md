@@ -36,8 +36,7 @@
 </head>
 <body>
     <h1 id="home">Davide Sclosa</h1>
-    <p>Mathematician.</p>
-    <p>I am broadly interested in relations between discrete and continuous structures.</p>
+    <p><i>I am interested in relations between discrete and continuous structures in mathematics.</p>
 
     <ul class="menu">
         <li><a href="index.html">Home</a></li>
