@@ -41,11 +41,12 @@ This page presents some of my contributions.
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
   <span style="color: gray; font-size: 20px;">#graph_theory #dynamical_systems</span>
 </p>
-Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
-The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
+A group of people exchanging opinions. A network of neurons firing. An artificial neural network during the learning phase. A self-replicating machine in a cellular automaton. A graph with vertices turning on and off at random according to the state of the adjacent vertices. A random graph with edges turning on and off at random according to the adjacent edges.
+Each of these phenomena is (or can be effectively understood as) a dynamical system on a graph, with vertices representing dynamical quantities and edges representing interactions among them. Clearly, a change in the structure of the graph should result in some change in the dynamics. However, the relation between graph structure and dynamics is subtle and, sometimes, even surprising.
 I proved false a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
 I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034) to set of equilibria and stability.
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+
 
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
