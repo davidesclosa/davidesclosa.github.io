@@ -59,7 +59,7 @@ In the classication, a central role is played by linear algebraic groups defined
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 Consider the sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$ obtained by varying the underlying field.
 The "limit object" $$G(\overline{\mathbb F_p})$$, the group over on an algebraic closure, is a smooth algebraic variety.
-We call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
+Let $$k$$ be a *popular index* if for infinitely many $$n$$ the group $$G(\mathbb F_{p^n})$$ has a subgroup of index $$k$$.
 I prove correspondence between [popular indeces and coverings of the algebraic variety](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en).
 This problem was presented to me by P. Corvaja.
 
