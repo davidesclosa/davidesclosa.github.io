@@ -29,7 +29,7 @@
     <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contact Me</a></li>
 </ul>
 
-# Selected Publications
+# Publications
 
 * _Dynamical Systems on Graph Limits and Their Symmetries_, C.Bick, D.Sclosa,
 
@@ -47,9 +47,12 @@
 
     **Nonlinearity**, 34 (8), 5234, 2021
 
-  
 
-The full list of publications can be found [here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
+---
+
+# Preprints
+
+Preprints can be found [here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
 
 
 
