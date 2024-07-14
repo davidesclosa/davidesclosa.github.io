@@ -38,8 +38,8 @@ This page presents some of my contributions.
 
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
-  <span style="color: gray; font-size: 20px;">#GraphTheory #DynamicalSystems</span>
+  <span style=" font-size: 20px;">Dynamical Systems on Graphs </span>
+  <span style="color: gray; font-size: 20px;">#graphtheory #dynamicalsystems</span>
 </p>
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
@@ -49,7 +49,7 @@ Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and g
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
-  <span style="color: gray; font-size: 20px;">#GroupTheory #AlgebraicGeometry</span>
+  <span style="color: gray; font-size: 20px;">#grouptheory #algebraicgeometry</span>
 </p>
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
 By varying the underlying field we obtain a sequence of finite groups $$(G(\mathbb F_{p^n}))_{n\geq 0}$$.
@@ -58,16 +58,20 @@ We call $$k$$ a *popular index* if for infinitely many $$n$$ the group $$G(\math
 I prove correspondence between [popular indeces and coverings of the limit object](https://www.degruyter.com/document/doi/10.1515/jgth-2022-0110/html?lang=en).
 This problem was presented to me by P. Corvaja.
 
-
-### Bounded Power Series and Generating Functions
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
+  <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
+</p>
 The existence of power series bounded on the whole real line, like $$\sin(x)$$ and $$e^{-x^2/2}$$,
 is in itself a remarkable fact: infinitely many monomials have to balance each other out, uniformly, on an unbounded set
 (in contrast, power series bounded on the complex plane are constant).
 I study the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and, in particular,
 obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
 
-
-### Lagarias–Wang Finiteness Conjecture
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
+  <span style="color: gray; font-size: 20px;">#dynamicalsystems #combinatorics</span>
+</p>
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
 The *Lagarias–Wang finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
