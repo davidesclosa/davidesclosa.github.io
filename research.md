@@ -36,12 +36,14 @@
 I am broadly interested in relations between discrete and continuous structures.
 This page presents some of my contributions.
 
+
 ### Dynamical Systems on Finite Graphs and Graph Limits
 Graph dynamical systems are given by a set of vertices, each representing some dynamical quantity, and a set of edges representing interactions among them.
 The goal of this theory is relating the underlying combinatorial structure with the resulting dynamical phenomena.
 I proved false a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
 I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034) to set of equilibria and stability.
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+
 
 ### Finite Groups and Algebraic Geometry
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
@@ -59,6 +61,7 @@ is in itself a remarkable fact: infinitely many monomials have to balance each o
 I study the set of [bounded power series on the real line]((https://www.sciencedirect.com/science/article/pii/S0022247X24003706)) and, in particular,
 obtain necessary conditions on the coefficient sequence; this is particularly important in the case of bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning. On this matter, I am unable to close a certain gap, left as a conjecture.
 
+
 ### Lagarias–Wang Finiteness Conjecture
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
@@ -66,6 +69,7 @@ The *Lagarias–Wang finiteness conjecture* states that this supremum is a maxim
 the maximum normalized spectral radius. This conjecture is false for real matrices and open for rational matrices.
 Together with G. Panti, I prove that [this conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
 We apply the result to the study of hyperbolic billiards.
+
 
 ### Dynamic Random Graphs
 To be announced.
