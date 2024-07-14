@@ -35,13 +35,16 @@
 
     **Journal of Dynamics and Differential Equations**, 1-36, 2024
 
+
 * _Algebraic groups over finite fields: Connections between subgroups and isogenies_, D. Sclosa,
 
     **Journal of Group Theory**, 26 (6), 1143-1155, 2023
 
+
 * _Bounded Power Series on the Real Line_, D. Sclosa,
 
     **Journal of Mathematical Analysis and Applications**, 128448,	2024
+
 
 * _The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$_, G.Panti, D.Sclosa,
 
