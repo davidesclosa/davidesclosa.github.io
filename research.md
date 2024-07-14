@@ -38,8 +38,8 @@ This page presents some of my contributions.
 
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 18px;">Dynamical Systems on Finite Graphs and Graph Limits </span>
-  <span style="color: gray; font-size: 18px;">#GraphTheory #DynamicalSystems</span>
+  <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
+  <span style="color: gray; font-size: 20px;">#GraphTheory #DynamicalSystems</span>
 </p>
 
 
@@ -50,6 +50,10 @@ I proved false a conjecture by constructing finite graphs supporting [infinitely
 I related [graph homology, graph coverings,](https://arxiv.org/abs/2308.08311) and [Eulerian paths](https://arxiv.org/pdf/2112.12034) to set of equilibria and stability.
 Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and graphops](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Finite Graphs and Graph Limits </span>
+  <span style="color: gray; font-size: 20px;">#GroupTheory #AlgebraicGeometry</span>
+</p>
 
 ### Finite Groups and Algebraic Geometry
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
