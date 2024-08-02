@@ -34,13 +34,13 @@
 
 # Research
 I am broadly interested in relations between discrete and continuous structures.
-This page presents some of my contributions.
+This page contains some of my contributions.
 
 ___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs </span>
-  <span style="color: gray; font-size: 20px;">#graphtheory #dynamicalsystems</span>
+  <span style="color: gray; font-size: 20px;">#graphtheory #dynamics </span>
 </p>
 A group of people exchanging opinions. A network of neurons firing. An artificial neural network during the learning phase. A self-replicating machine in a cellular automaton. A graph with vertices turning on and off at random according to the state of the adjacent vertices. A random graph with edges turning on and off at random according to the adjacent edges.
 Each of these phenomena is (or can be effectively understood as) a dynamical system on a graph, with vertices representing dynamical quantities and edges representing interactions among them. Clearly, a change in the structure of the graph should result in some change in the dynamics. However, the relation between graph structure and dynamics is subtle and, sometimes, even surprising.
@@ -52,7 +52,7 @@ ___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
-  <span style="color: gray; font-size: 20px;">#grouptheory #algebraicgeometry</span>
+  <span style="color: gray; font-size: 20px;">#grouptheory #algebraicgeometry #numbertheory</span>
 </p>
 The classification of finite simple groups, the building blocks of all finite groups, is one of the greatest achievements in mathematics.
 In the classication, a central role is played by linear algebraic groups defined over finite fields.
@@ -81,7 +81,7 @@ ___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
-  <span style="color: gray; font-size: 20px;">#dynamicalsystems #combinatorics</span>
+  <span style="color: gray; font-size: 20px;">#ergodictheory #combinatorics</span>
 </p>
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
@@ -94,7 +94,7 @@ ___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
-  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamicalsystems</span>
+  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamics</span>
 </p>
 To be announced.
 
