@@ -66,6 +66,19 @@ This problem was presented to me by P. Corvaja.
 ___
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
+  <span style="color: gray; font-size: 20px;">#ergodictheory #combinatorics</span>
+</p>
+The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
+The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
+The *Lagarias–Wang finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
+the maximum normalized spectral radius. This conjecture is false for real matrices and open for rational matrices.
+Together with G. Panti, I prove that [this conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
+We apply the result to the study of hyperbolic billiards.
+
+___
+
+<p style="display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
   <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
 </p>
@@ -76,19 +89,6 @@ I relate [coefficients of a power series](https://www.sciencedirect.com/science/
 Such results are particularly important for bounded generating functions, like $$e^{1-e^x}$$, in which the coefficient sequence carries combinatorial meaning.
 Moreover, I show that the set of real bounded power series supports three natural (but inequivalent) topologies and that the shift operator is invertible on a dense subset.
 I am unable to close a certain gap, see Conjecture 2.7. Speciality coffee is offered for the solution. ☕️
-
-___
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
-  <span style="color: gray; font-size: 20px;">#ergodictheory #combinatorics</span>
-</p>
-The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
-The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
-The *Lagarias–Wang finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
-the maximum normalized spectral radius. This conjecture is false for real matrices and open for rational matrices.
-Together with G. Panti, I prove that [this conjecture holds](https://iopscience.iop.org/article/10.1088/1361-6544/ac0484/meta) in $$\mathrm{SL}_2(\mathbb Z_{\geq 0})$$.
-We apply the result to the study of hyperbolic billiards.
 
 ___
 
