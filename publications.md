@@ -40,15 +40,17 @@
 
     _Journal of Group Theory_, 26 (6), 1143-1155, 2023
 
+* **The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$**, G.Panti, D.Sclosa,
+
+    _Nonlinearity_, 34 (8), 5234, 2021
+
 
 * **Bounded Power Series on the Real Line**, D. Sclosa,
 
     _Journal of Mathematical Analysis and Applications_, 128448,	2024
 
 
-* **The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$**, G.Panti, D.Sclosa,
 
-    _Nonlinearity_, 34 (8), 5234, 2021
 
 
 ---
