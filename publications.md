@@ -32,6 +32,7 @@
 # Publications
 
 * **Dynamical Systems on Graph Limits and Their Symmetries**,
+
     with C.Bick, _Journal of Dynamics and Differential Equations_, 1-36, 2024
 
 * **Bounded Power Series on the Real Line**,
