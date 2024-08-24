@@ -31,34 +31,40 @@
 
 # Publications
 
-* **Dynamical Systems on Graph Limits and Their Symmetries**, C.Bick, D.Sclosa,
+* **Dynamical Systems on Graph Limits and Their Symmetries**,
+    with C.Bick, _Journal of Dynamics and Differential Equations_, 1-36, 2024
 
-    _Journal of Dynamics and Differential Equations_, 1-36, 2024
-
-
-* **Algebraic groups over finite fields: Connections between subgroups and isogenies**, D. Sclosa,
-
-    _Journal of Group Theory_, 26 (6), 1143-1155, 2023
-
-* **The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$**, G.Panti, D.Sclosa,
-
-    _Nonlinearity_, 34 (8), 5234, 2021
-
-
-* **Bounded Power Series on the Real Line**, D. Sclosa,
+* **Bounded Power Series on the Real Line**,
 
     _Journal of Mathematical Analysis and Applications_, 128448,	2024
 
+* **Algebraic groups over finite fields: Connections between subgroups and isogenies**,
 
+    _Journal of Group Theory_, 26 (6), 1143-1155, 2023
+
+* **The finiteness conjecture holds in $$\mathrm{SL_2}(\mathbb Z){\geq 0}$$**,
+
+    with G.Panti, _Nonlinearity_, 34 (8), 5234, 2021
+
+* **Completely Degernate Equilibria of the Kuramoto Model on Networks**,
+
+    _Nonlinearity_, 37 (9), 5234, 2024
+
+* **Kuramoto Networks with Infinitely Many Stable Equilibria**,
+
+    _SIAM Journal on Applied Dynamical Systems_, 22 (4), 2023
+
+* **If you are the smartest person in the room, you are in the wrong room**,
+
+    _arXiv preprint arXiv:2407.08042_, 2024
+
+* **Graph Gradient Diffusion**,
+
+    _arXiv preprint arXiv:2308.08311_, 2023
 
 
 
 ---
-
-# Preprints
-
-Preprints can be found [here](https://scholar.google.com/citations?user=B392PEAAAAAJ).
-
 
 
 <script
