@@ -94,7 +94,7 @@ We apply the result to the study of hyperbolic billiards.
 ___
 <p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
   <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions</span>
-  <span style="color: gray; font-size: 20px;">#realanalysis #combinatorics</span>
+  <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
 </p>
 
 For a power series to be bounded on the real line, think of $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$,
