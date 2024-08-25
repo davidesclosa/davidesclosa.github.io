@@ -9,7 +9,7 @@
     <meta name="description" content="Learn more about my research in combinatorics and dynamical systems and algebra and analysis.">
     
     <!-- Keywords Meta Tag -->
-    <meta name="keywords" content="Davide, Sclosa, Davide Sclosa, math, graph, graphs, graph theory, dynamics, network, networks, synchronization, combinatorics, graph limits, research, finite fields, mathematics, Kuramoto, Ramsey, additive, discrete, random, manifolds, invariant, measure, groups, group theory, Amsterdam, rooms, algebra, bounded, generating, equilibria, diffusion, smartest, symmetries, analysis, ergodic, concentration, inequalities, coloring, decomposition, progressions, arithmetic, norms, rational, generating function, Bell numbers, Uppuluri-Carpenter numbers, Stirling, graphon, graphop, graphons, graphops">
+    <meta name="keywords" content="Davide, Sclosa, Davide Sclosa, math, graph, graphs, graph theory, dynamics, network, networks, synchronization, combinatorics, graph limits, research, finite fields, mathematics, Kuramoto, Ramsey, additive, discrete, random, manifolds, invariant, measure, groups, group theory, Amsterdam, rooms, algebra, bounded, generating, equilibria, diffusion, smartest, symmetries, analysis, ergodic, concentration, inequalities, coloring, decomposition, progressions, arithmetic, norms, rational, generating function, Bell numbers, Uppuluri-Carpenter numbers, Stirling, graphon, graphop, graphons, graphops, Lagarias, Wang, conjecture, Eulerian, simple, isogeny">
 </head>
 
 <style>
