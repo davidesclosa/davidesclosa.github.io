@@ -52,9 +52,9 @@ This page contains some of my contributions.
 
 ___
 
-<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; gap: 10px;">
-  <span style="font-weight: bold; font-size: 20px; white-space: nowrap;">Dynamical Systems on Graphs</span>
-  <span style="color: gray; font-size: 20px; white-space: nowrap;">#graphtheory #dynamics</span>
+<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs</span>
+  <span style="color: gray; font-size: 20px;">#graphtheory #dynamics</span>
 </p>
 A group of people exchanging opinions. A network of neurons firing. An artificial neural network during the learning phase. A self-replicating machine in a cellular automaton. A graph with vertices turning on and off at random according to the state of the adjacent vertices. A random graph with edges turning on and off at random according to the adjacent edges.
 Each of these phenomena is (or can be effectively understood as) a dynamical system on a graph, with vertices representing dynamical quantities and edges representing interactions among them. Clearly, a change in the structure of the graph should result in some change in the dynamics. However, the relation between graph structure and dynamics is subtle and, sometimes, even surprising.
