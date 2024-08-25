@@ -18,12 +18,14 @@
 }
 
 .menu {
-    position: absolute;
+    position: sticky;
     top: 10px;
     right: 10px;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    background-color: white;
+    z-index: 1000;
 }
 
 .menu li {
