@@ -17,25 +17,17 @@
     position: relative;
 }
 
-.menu-wrapper {
-    position: sticky;
-    top: 0;
-    right: 0;
-    left: 0;
-    background-color: white; /* Full-width background */
-    z-index: 1000;
-    padding: 10px 0; /* Padding to add some space around the menu */
-}
-
 .menu {
-    display: flex; /* Flexbox for horizontal alignment */
-    justify-content: flex-end; /* Align items to the right */
+    position: absolute;
+    top: 10px;
+    right: 10px;
     list-style-type: none;
     margin: 0;
-    padding: 0 20px; /* Padding inside the menu area */
+    padding: 0;
 }
 
 .menu li {
+    display: inline;
     margin-left: 10px;
 }
 
@@ -44,14 +36,12 @@
 }
 </style>
 
-<div class="menu-wrapper">
-    <ul class="menu">
-        <li><a href="index" style="text-decoration: none; color: black;">Home</a></li>
-        <li><a href="publications" style="text-decoration: none; color: black;">Publications</a></li>
-        <li><a href="cv.pdf" download>CV</a></li>
-        <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contacts</a></li>
-    </ul>
-</div>
+<ul class="menu">
+    <li><a href="index" style="text-decoration: none; color: black;">Home</a></li>
+    <li><a href="publications" style="text-decoration: none; color: black;">Publications</a></li>
+    <li><a href="cv.pdf" download>CV</a></li>
+    <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contacts</a></li>
+</ul>
 
 
 
