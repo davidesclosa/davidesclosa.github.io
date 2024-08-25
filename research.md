@@ -47,8 +47,7 @@
 
 
 # Research
-I am broadly interested in relations between discrete and continuous structures.
-This page contains some of my contributions.
+I am interested in connections between discrete and continuous structures in mathematics, in particular, between combinatorics and dynamical systems. I like to work with graphs, maps, measures, groups, flows, generating functions. This page contains some of my contributions.
 
 ___
 
