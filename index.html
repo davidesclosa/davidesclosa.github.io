@@ -61,15 +61,20 @@
         @media (max-width: 768px) {
             .menu {
                 display: block; /* Stack items vertically */
+                padding: 0;
+                margin: 0;
             }
-
+        
             .menu li {
                 display: block;
+                width: 100%; /* Ensure li elements take full width */
                 margin: 10px 0; /* Space between buttons */
             }
-
+        
             .menu li a {
+                display: block; /* Ensure anchor tags take full width */
                 width: 100%; /* Make buttons full-width */
+                box-sizing: border-box; /* Include padding and border in width */
             }
         }
         
