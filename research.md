@@ -38,7 +38,6 @@
 
 <ul class="menu">
     <li><a href="index" style="text-decoration: none; color: black;">Home</a></li>
-    <li><a href="research" style="text-decoration: none; color: black;">Research</a></li>
     <li><a href="publications" style="text-decoration: none; color: black;">Publications</a></li>
     <li><a href="cv.pdf" download>CV</a></li>
     <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contact Me</a></li>
