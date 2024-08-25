@@ -64,10 +64,11 @@ Together with with C. Bick, I analyzed symmetries of [dynamics on graphons and g
 
 ___
 
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields </span>
+<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <span style="font-weight: bold; font-size: 20px;">Algebraic Groups over Finite Fields</span>
   <span style="color: gray; font-size: 20px;">#grouptheory #algebraicgeometry #numbertheory</span>
 </p>
+
 The classification of finite simple groups, the building blocks of all finite groups, is one of the greatest achievements in mathematics.
 In the classication, a central role is played by linear algebraic groups defined over finite fields.
 Fix a linear algebraic group $$G$$ (for example $$\mathrm{GL}_m$$, $$\mathrm{SL}_m$$, $$\mathrm{SO}_m$$, $$\mathrm{Sp}_{2m}, \ldots$$).
@@ -78,11 +79,11 @@ I prove correspondence between [popular indeces and coverings of the algebraic v
 This problem was presented to me by P. Corvaja.
 
 ___
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture </span>
+<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <span style="font-weight: bold; font-size: 20px;">Lagarias–Wang Finiteness Conjecture</span>
   <span style="color: gray; font-size: 20px;">#ergodictheory #combinatorics</span>
 </p>
+
 The normalized spectral radius of an $$n$$-long product of two matrices $$A$$ and $$B$$ is the $$n$$-th root of its spectral radius.
 The joint spectral radius is the supremum of the normalized spectral radii among all finite products.
 The *Lagarias–Wang finiteness conjecture* states that this supremum is a maximum, that is, there is a finite product of $$A$$ and $$B$$ that realizes
@@ -91,11 +92,11 @@ Together with G. Panti, I prove that [this conjecture holds](https://iopscience.
 We apply the result to the study of hyperbolic billiards.
 
 ___
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions </span>
-  <span style="color: gray; font-size: 20px;">#analysis #combinatorics</span>
+<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <span style="font-weight: bold; font-size: 20px;">Bounded Power Series and Generating Functions</span>
+  <span style="color: gray; font-size: 20px;">#realanalysis #combinatorics</span>
 </p>
+
 For a power series to be bounded on the real line, think of $$\sin(x)$$, $$e^{-x^2/2}$$, or $$e^{1-e^x}$$,
 infinitely many monomials have to balance each other out, uniformly, on an unbounded set.
 This is a remarkable phenomenon: in contrast, bounded power series on the complex plane are constant.
@@ -106,10 +107,11 @@ I am unable to close a certain gap, see Conjecture 2.7. Speciality coffee is off
 
 ___
 
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs </span>
+<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs</span>
   <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamics</span>
 </p>
+
 To be announced.
 
 
