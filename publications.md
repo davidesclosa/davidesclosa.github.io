@@ -59,9 +59,9 @@
 
     _arXiv preprint arXiv:2407.08042_, 2024
 
-* **Graph Gradient Diffusion**,
+* **From Combinatorics to Geometry: The Dynamics of Graph Gradient Diffusion**,
 
-    _arXiv preprint arXiv:2308.08311_, 2023
+    _arXiv preprint arxiv.org/pdf/2308.08311_, 2023
 
 
 
