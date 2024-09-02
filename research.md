@@ -55,11 +55,11 @@ ___
   <span style="font-weight: bold; font-size: 20px;">Dynamical Systems on Graphs</span>
   <span style="color: gray; font-size: 20px;">#graphtheory #dynamics</span>
 </p>
-Every vertex of a graph respresents a dynamical quantity and every edge represents an interaction. Think, for example, of a group of people exchanging opinions, neural network firing, a self-replicating machine in a cellular automaton, a graph with vertices turning on and off at random according to the state of the adjacent vertices. I am interested in relations between combinatorial structure of the graph and resulting dynamics.
-I proved that the dimension of the equilibrium set can be bounded
+Every vertex of a graph respresents a dynamical quantity and every edge represents an interaction. Think, for example, of a group of people exchanging opinions, neural network firing, a self-replicating machine in a cellular automaton, a graph with vertices turning on and off at random according to the state of the adjacent vertices. I am interested in relations between combinatorial structure of the graph and resulting dynamics. The followings are some of my findings.
+The dimension of the equilibrium set can be bounded
 [from above using graph homology, and from below using graph covering](https://arxiv.org/abs/2308.08311).
-I proved false a conjecture by constructing finite graphs supporting [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
-I showed that nilpotent equilibria in Kuramoto networks are classified by [Eulerian paths](https://arxiv.org/pdf/2112.12034).
+In contrast to a popular conjecture, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
+Nilpotent equilibria in Kuramoto networks are classified by [Eulerian paths](https://arxiv.org/pdf/2112.12034).
 Together with with C. Bick, I analyzed symmetries of [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
 ___
 
