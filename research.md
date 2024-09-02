@@ -61,6 +61,7 @@ The dimension of the equilibrium set can be bounded
 In contrast to a popular conjecture, finite graphs can support [infinitely many stable equilibria](https://epubs.siam.org/doi/10.1137/23M155400X).
 Nilpotent equilibria in Kuramoto networks are classified by [Eulerian paths](https://arxiv.org/pdf/2112.12034).
 Together with with C. Bick, I analyzed symmetries of [dynamical systems on graph limits](https://link.springer.com/article/10.1007/s10884-023-10334-7).
+
 ___
 
 <p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
