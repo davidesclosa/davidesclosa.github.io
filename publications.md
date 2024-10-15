@@ -56,9 +56,11 @@
     _SIAM Journal on Applied Dynamical Systems_, 22 (4), 2023
 
 * **Dimension Bounds for Systems of Equations with Graph Structure**
-    _arXiv preprint arxiv.org/abs/2410.06840_, 2024
+  
+    _arXiv preprint arxiv.org/2410.06840_, 2024
 
 * **A Random-Walk Concentration Principle for Occupancy Processes on Finite Graphs**
+  
    _arXiv preprint arXiv:2410.06807_, 2024
 
 * **If you are the smartest person in the room, you are in the wrong room**
