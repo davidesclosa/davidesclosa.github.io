@@ -108,11 +108,19 @@ I am unable to close a certain gap, see Conjecture 2.7. Speciality coffee is off
 ___
 
 <p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
-  <span style="font-weight: bold; font-size: 20px;">Dynamic Random Graphs</span>
+  <span style="font-weight: bold; font-size: 20px;">Interactive Particle Systems and Dynamic Random Graphs </span>
   <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamics</span>
 </p>
 
-To be announced.
+[This paper](https://arxiv.org/pdf/2410.06807) concerns discrete-time occupancy processes on a finite graph, which include various types of interacting particle systems and random graph models as special cases. Our results can be formulated in two theorems, which are stated for vertex processes, but also applied to edge process (e.g., dynamic random graphs). The first theorem shows that concentration of
+local state averages is controlled by a random walk on the graph. The second theorem concerns
+concentration of polynomials of the vertex states. For dynamic random graphs, this allows to
+estimate deviations of edge density, triangle density, and more general subgraph densities. Our
+results only require Lipschitz continuity and hold for both dense and sparse graphs.
+This is joint work with Christian Bick and Michel Mandjes,
+
+---
+
 
 
 <script
