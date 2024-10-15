@@ -117,9 +117,21 @@ local state averages is controlled by a random walk on the graph. The second the
 concentration of polynomials of the vertex states. For dynamic random graphs, this allows to
 estimate deviations of edge density, triangle density, and more general subgraph densities. Our
 results only require Lipschitz continuity and hold for both dense and sparse graphs.
-This is joint work with Christian Bick and Michel Mandjes,
+This is joint work with Christian Bick and Michel Mandjes.
 
 ---
+
+<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <span style="font-weight: bold; font-size: 20px;">Systems of Equations with Graph Structure </span>
+  <span style="color: gray; font-size: 20px;">#probability #combinatorics #dynamics</span>
+</p>
+
+In this [joint work](https://arxiv.org/pdf/2410.06840) with Eddie Nijholt, we introduce a broad class of equations that are described by a graph, which includes many well-studied systems. For these, we show that the number of solutions (or the dimension of the solution set) can be bounded by studying certain induced subgraphs. As corollaries, we obtain novel bounds in spectral graph theory on the
+multiplicities of graph eigenvalues, and in nonlinear dynamical system on the dimension
+of the equilibrium set of a network.
+
+---
+
 
 
 
