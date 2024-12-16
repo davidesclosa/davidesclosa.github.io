@@ -31,6 +31,10 @@
 
 # Publications
 
+* **From Combinatorics to Geometry: The Dynamics of Graph Gradient Diffusion**
+
+    _Geometriae Dedicata_, 219 (6), 2025
+
 * **Dynamical Systems on Graph Limits and Their Symmetries**
 
     with C.Bick, _Journal of Dynamics and Differential Equations_, 1-36, 2024
@@ -66,10 +70,6 @@
 * **If you are the smartest person in the room, you are in the wrong room**
 
     _arXiv preprint arXiv:2407.08042_, 2024
-
-* **From Combinatorics to Geometry: The Dynamics of Graph Gradient Diffusion**
-
-    _arXiv preprint arxiv.org/pdf/2308.08311_, 2023
 
 
 ---
