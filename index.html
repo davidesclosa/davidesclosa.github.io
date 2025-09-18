@@ -23,10 +23,21 @@
             text-align: center;
         }
 
+        h1 {
+            margin: 0 0 20px 0; /* top=0, bottom=20px */
+        }
+
+        .intro {
+            font-size: 18px;
+            line-height: 1.6;
+            margin: 0 0 20px 0; /* top=0, bottom=20px */
+        }
+
         .menu {
             list-style-type: none;
             padding: 0;
             text-align: center;
+            margin: 0; /* remove default ul margin */
         }
 
         .menu li {
@@ -49,12 +60,6 @@
 
         .menu li a:hover {
             background-color: #e0e0e0; /* Background color on hover */
-        }
-
-        .intro {
-            font-size: 18px;
-            line-height: 1.6;
-            margin-bottom: 20px;
         }
 
         /* Mobile styles */
@@ -83,8 +88,7 @@
 <body>
     <div class="container">
         <h1 id="home">davide sclosa</h1>
-        <p class="intro">mathematician
-        </p>
+        <p class="intro">mathematician</p>
 
         <ul class="menu">
             <li><a href="publications.html">publications</a></li>
