@@ -24,7 +24,6 @@
 
 <ul class="menu">
     <li><a href="index" style="text-decoration: none; color: black;">Home</a></li>
-    <li><a href="research" style="text-decoration: none; color: black;">Research</a></li>
     <li><a href="cv.pdf" download style="text-decoration: none; color: black;">CV</a></li>
     <li><a href="mailto:davide.sclosa@gmail.com" style="text-decoration: none; color: black;">Contacts</a></li>
 </ul>
