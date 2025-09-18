@@ -12,6 +12,7 @@
             padding: 0;
             font-family: Arial, sans-serif;
             background-color: #ffffff; /* White background */
+            font-size: 18px; /* Base font size (bigger) */
         }
 
         .container {
@@ -24,25 +25,26 @@
         }
 
         h1 {
-            margin: 0 0 20px 0; /* top=0, bottom=20px */
+            font-size: 2.8em; /* Bigger name */
+            margin: 0 0 25px 0;
         }
 
         .intro {
-            font-size: 18px;
+            font-size: 1.5em; /* Bigger subtitle */
             line-height: 1.6;
-            margin: 0 0 20px 0; /* top=0, bottom=20px */
+            margin: 0 0 25px 0;
         }
 
         .menu {
             list-style-type: none;
             padding: 0;
             text-align: center;
-            margin: 0; /* remove default ul margin */
+            margin: 0;
         }
 
         .menu li {
             display: inline-block;
-            margin-left: 10px;
+            margin-left: 15px;
         }
 
         .menu li:first-child {
@@ -52,34 +54,45 @@
         .menu li a {
             text-decoration: none;
             color: black;
-            padding: 8px 12px; /* Adjust padding as needed */
+            padding: 12px 18px; /* Bigger buttons */
             display: inline-block;
-            border: 1px solid #ccc; /* Border style */
-            border-radius: 4px; /* Rounded corners */
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 1.2em; /* Larger text */
         }
 
         .menu li a:hover {
-            background-color: #e0e0e0; /* Background color on hover */
+            background-color: #e0e0e0;
         }
 
         /* Mobile styles */
         @media (max-width: 768px) {
+            h1 {
+                font-size: 2.2em;
+            }
+
+            .intro {
+                font-size: 1.3em;
+            }
+
             .menu {
-                display: block; /* Stack items vertically */
+                display: block;
                 padding: 0;
                 margin: 0;
             }
         
             .menu li {
                 display: block;
-                width: 100%; /* Ensure li elements take full width */
-                margin: 10px 0; /* Space between buttons */
+                width: 100%;
+                margin: 12px 0;
             }
         
             .menu li a {
-                display: block; /* Ensure anchor tags take full width */
-                width: 100%; /* Make buttons full-width */
-                box-sizing: border-box; /* Include padding and border in width */
+                display: block;
+                width: 100%;
+                box-sizing: border-box;
+                font-size: 1.1em;
+                padding: 14px; /* Even bigger touch targets on mobile */
             }
         }
         
@@ -87,13 +100,13 @@
 </head>
 <body>
     <div class="container">
-        <h1 id="home">davide sclosa</h1>
-        <p class="intro">mathematician</p>
+        <h1 id="home">Davide Sclosa</h1>
+        <p class="intro">Mathematician</p>
 
         <ul class="menu">
-            <li><a href="publications.html">publications</a></li>
+            <li><a href="publications.html">Publications</a></li>
             <li><a href="cv.pdf" download>CV</a></li>
-            <li><a href="mailto:davide.sclosa@gmail.com">contact me</a></li>
+            <li><a href="mailto:davide.sclosa@gmail.com">Contact Me</a></li>
         </ul>
     </div>
 </body>
