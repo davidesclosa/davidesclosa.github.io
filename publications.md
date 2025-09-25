@@ -63,6 +63,8 @@
 
     with G.Panti, _Nonlinearity_, 34 (8), 5234, 2021
 
+# Preprints
+
 * [**A Random-Walk Concentration Principle for Occupancy Processes on Finite Graphs**](https://arxiv.org/pdf/2410.06807)
   
    _arXiv preprint arXiv:2410.06807_, 2024
