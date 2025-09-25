@@ -30,7 +30,7 @@
 
 # Publications
 
-* **If you are the smartest person in the room, you are in the wrong room**
+* [**If you are the smartest person in the room, you are in the wrong room**](https://example.com)
 
     _Graphs and Combinatorics, 41 (5), 2025
 
