@@ -34,7 +34,7 @@
 
     _Graphs and Combinatorics_, 41 (5), 2025
 
-* [From Combinatorics to Geometry: The Dynamics of Graph Gradient Diffusion](https://link.springer.com/article/10.1007/s10711-024-00967-3)
+* [**From Combinatorics to Geometry: The Dynamics of Graph Gradient Diffusion**](https://link.springer.com/article/10.1007/s10711-024-00967-3)
 
     _Geometriae Dedicata_, 219 (6), 2025
 
